@@ -1,4 +1,3 @@
-644
 .T
 a study of the cantilever square plate subjected to
 a uniform loading .

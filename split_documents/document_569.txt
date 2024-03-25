@@ -1,4 +1,3 @@
-569
 .T
 an experimental investigation of leading edge shock wave boundary layer
 interaction at mach 5.8 .

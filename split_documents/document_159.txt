@@ -1,4 +1,3 @@
-159
 .T
 numerical methods for transient heat flow .
 .A

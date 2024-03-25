@@ -1,4 +1,3 @@
-1312
 .T
 tabulated solutions of the equilibrium gas properties
 behind the incidents and reflected normal shock-wave

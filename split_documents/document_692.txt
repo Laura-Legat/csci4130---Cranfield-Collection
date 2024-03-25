@@ -1,4 +1,3 @@
-692
 .T
 investigation of the jet effects on a flat surface downstream of the
 exit of a simulated turbojet nacelle at a free-stream mach number of

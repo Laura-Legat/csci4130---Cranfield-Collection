@@ -1,4 +1,3 @@
-571
 .T
 heat transfer to flat plate in high temperature rarefied
 ultra-high mach number flow .

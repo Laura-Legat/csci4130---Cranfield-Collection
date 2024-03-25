@@ -1,4 +1,3 @@
-871
 .T
 steady-state creep through dislocation climb .
 .A

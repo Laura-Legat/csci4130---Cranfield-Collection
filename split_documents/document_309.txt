@@ -1,4 +1,3 @@
-309
 .T
 on the motion of a flat plate at high speed in a viscous
 compressible fluid, ii, steady motion .

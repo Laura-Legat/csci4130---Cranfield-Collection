@@ -1,4 +1,3 @@
-29
 .T
 a simple model study of transient temperature and thermal
 stress distribution due to aerodynamic heating .

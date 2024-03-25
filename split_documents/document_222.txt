@@ -1,4 +1,3 @@
-222
 .T
 the flow over delta wings at low speeds with leading
 edge separation .

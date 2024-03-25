@@ -1,4 +1,3 @@
-794
 .T
 experiments with a tapered swept-back wing of warren 12 planform at mach
  numbers between 0.6 and 1.6 .

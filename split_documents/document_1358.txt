@@ -1,4 +1,3 @@
-1358
 .T
 compressive buckling of simply supported plates with
 transverse stiffeners .

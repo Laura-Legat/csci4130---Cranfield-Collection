@@ -1,4 +1,3 @@
-280
 .T
 the surface oil flow technique as used in high speed
 wind tunnels in the united kingdom .

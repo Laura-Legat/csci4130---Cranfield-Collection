@@ -1,4 +1,3 @@
-1297
 .T
 ionization nonequilibrium in expanding flows .
 .A

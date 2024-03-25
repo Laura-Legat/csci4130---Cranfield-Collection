@@ -1,4 +1,3 @@
-1069
 .T
 design and testing of honeycomb sandwich cylinders
 under axial compression .

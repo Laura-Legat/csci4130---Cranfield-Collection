@@ -1,4 +1,3 @@
-1048
 .T
 a small deflection theory for curved sandwich plates .
 .A

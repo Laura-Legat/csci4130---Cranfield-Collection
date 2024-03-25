@@ -1,4 +1,3 @@
-217
 .T
 flow pattern in a converging-diverging nozzle .
 .A

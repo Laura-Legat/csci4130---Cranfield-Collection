@@ -1,4 +1,3 @@
-662
 .T
 theoretical and experimental investigation of
 aerodynamic-heating and isothermal heat transfer parameters on

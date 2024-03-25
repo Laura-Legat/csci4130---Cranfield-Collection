@@ -1,4 +1,3 @@
-913
 .T
 vibrations of beams on many supports .
 .A

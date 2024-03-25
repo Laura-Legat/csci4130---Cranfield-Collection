@@ -1,4 +1,3 @@
-549
 .T
 experimental study of the velocity and temperature
 distribution in a high-velocity vortex-type flow .

@@ -1,4 +1,3 @@
-779
 .T
 calculation and compilation of the unsteady lift functions for a rigid
 wing subjected to sinusoidal gusts and to sinusoidal sinking

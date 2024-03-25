@@ -1,4 +1,3 @@
-1152
 .T
 on periodically oscillating wakes in the oseen approximation .
 .A

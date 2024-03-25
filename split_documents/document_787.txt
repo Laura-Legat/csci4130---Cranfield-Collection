@@ -1,4 +1,3 @@
-787
 .T
 rayleigh's problem for a cylinder of arbitrary shape .
 .A

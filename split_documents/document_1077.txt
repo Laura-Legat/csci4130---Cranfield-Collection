@@ -1,4 +1,3 @@
-1077
 .T
 a method of solution with tabulated results for the attached oblique
 shock wave system for surfaces at various angles of attack, sweep, and

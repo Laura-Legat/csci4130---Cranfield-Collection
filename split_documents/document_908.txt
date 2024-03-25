@@ -1,4 +1,3 @@
-908
 .T
 random vibration .
 .A

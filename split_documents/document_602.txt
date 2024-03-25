@@ -1,4 +1,3 @@
-602
 .T
 the 7 x 7 in . hypersonic wind tunnel at rae farnborough,
 part 1, design, instrumentation and flow visualization

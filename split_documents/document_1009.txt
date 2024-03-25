@@ -1,4 +1,3 @@
-1009
 .T
 free-flight measurements of the static and dynamic .
 .A

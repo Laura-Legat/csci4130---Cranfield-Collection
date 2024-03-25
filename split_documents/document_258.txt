@@ -1,4 +1,3 @@
-258
 .T
 the effect of turbulence on slider bearing lubrication .
 .A

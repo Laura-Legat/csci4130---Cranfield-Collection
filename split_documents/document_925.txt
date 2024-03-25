@@ -1,4 +1,3 @@
-925
 .T
 factors affecting loads at hypersonic speeds .
 .A

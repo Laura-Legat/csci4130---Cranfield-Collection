@@ -1,4 +1,3 @@
-799
 .T
 some effects of wind-tunnel interference observed in tests on
 two-dimensional aerofoils at high subsonic and transonic speeds .

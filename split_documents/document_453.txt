@@ -1,4 +1,3 @@
-453
 .T
 the influence of two-dimensional stream shear on airfoil maximum lift .
 .A

@@ -1,4 +1,3 @@
-1131
 .T
 the effect of axial constraint on the instability of
 thin conical shells under external pressure .

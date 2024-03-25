@@ -1,4 +1,3 @@
-574
 .T
 inviscid flow with nonequilibrium molecular dissociation for pressure
 distributions encountered in hypersonic flight .

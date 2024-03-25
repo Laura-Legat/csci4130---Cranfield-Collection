@@ -1,4 +1,3 @@
-1246
 .T
 solution of subsonic nonplanar lifting surface problems
 by means of high-speed digital computers .

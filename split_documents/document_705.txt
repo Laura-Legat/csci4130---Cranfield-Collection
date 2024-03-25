@@ -1,4 +1,3 @@
-705
 .T
 on the kernel function of the integral equation relating the lift and
 downwash distributions of oscillating finite wings in subsonic flow .

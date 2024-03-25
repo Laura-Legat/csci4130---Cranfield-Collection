@@ -1,4 +1,3 @@
-773
 .T
 q . app . math . 7, 1950, 381 . experiments on porous-wall
 cooling and flow separation control in a supersonic

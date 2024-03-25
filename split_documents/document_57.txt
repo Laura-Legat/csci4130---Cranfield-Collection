@@ -1,4 +1,3 @@
-57
 .T
 applicability of the hypersonic similarity rule to
 pressure distributions which include the effects of

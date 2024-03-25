@@ -1,4 +1,3 @@
-759
 .T
 stability investigation of a blunted cone and a blunted
 ogive with a flared cylinder afterbody at mach numbers

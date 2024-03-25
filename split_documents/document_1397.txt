@@ -1,4 +1,3 @@
-1397
 .T
 critical shear stress of an infinitely long simply
 supported plate with transverse stiffeners .

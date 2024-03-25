@@ -1,4 +1,3 @@
-1303
 .T
 air pressure on a cone moving at high speeds .
 .A

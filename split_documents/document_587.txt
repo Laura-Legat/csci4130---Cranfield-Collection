@@ -1,4 +1,3 @@
-587
 .T
 variational analysis of ablation .
 .A

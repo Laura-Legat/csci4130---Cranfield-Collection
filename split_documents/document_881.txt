@@ -1,4 +1,3 @@
-881
 .T
 cumulative damage in fatigue .
 .A

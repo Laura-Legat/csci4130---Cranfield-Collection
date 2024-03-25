@@ -1,4 +1,3 @@
-305
 .T
 hypersonic strong viscous interaction on a flat plate
 with surface mass transfer .

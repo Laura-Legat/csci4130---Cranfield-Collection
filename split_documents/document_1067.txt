@@ -1,4 +1,3 @@
-1067
 .T
 plastic stability theory of geometrically orthotropic
 plates and cylindrical shells .

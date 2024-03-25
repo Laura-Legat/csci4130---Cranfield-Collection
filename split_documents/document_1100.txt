@@ -1,4 +1,3 @@
-1100
 .T
 an analytical investigation of ablation .
 .A

@@ -1,4 +1,3 @@
-126
 .T
 an investigation of two-dimensional supersonic base
 pressures .

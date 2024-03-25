@@ -1,4 +1,3 @@
-81
 .T
 compressible laminar flow and heat transfer about a
 rotating isothermal disk .

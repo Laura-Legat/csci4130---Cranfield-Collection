@@ -1,4 +1,3 @@
-777
 .T
 a technique for rendering approximate solutions to
 physical problems uniformly valid .

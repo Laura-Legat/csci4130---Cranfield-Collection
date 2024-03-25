@@ -1,4 +1,3 @@
-283
 .T
 laminar heat transfer around blunt bodies in dissociated
 air .

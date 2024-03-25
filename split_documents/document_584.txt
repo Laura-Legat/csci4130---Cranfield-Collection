@@ -1,4 +1,3 @@
-584
 .T
 conduction of heat in a solid with a power law of heat
 transfer at its surface .

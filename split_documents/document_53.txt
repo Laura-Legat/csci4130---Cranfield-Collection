@@ -1,4 +1,3 @@
-53
 .T
 transition reynolds numbers of separated flows at
 supersonic speeds .

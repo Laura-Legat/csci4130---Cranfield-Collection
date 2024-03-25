@@ -1,4 +1,3 @@
-864
 .T
 status of flutter of flat and curved panels .
 .A

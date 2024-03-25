@@ -1,4 +1,3 @@
-2
 .T
 simple shear flow past a flat plate in an incompressible fluid of small
 viscosity .

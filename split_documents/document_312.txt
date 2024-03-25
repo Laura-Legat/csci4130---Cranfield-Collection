@@ -1,4 +1,3 @@
-312
 .T
 chordwise pressure distributions over several naca
 16 series airfoils at transonic mach numbers up to

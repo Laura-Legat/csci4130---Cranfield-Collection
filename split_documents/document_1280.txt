@@ -1,4 +1,3 @@
-1280
 .T
 wings with minimum drag due to lift in supersonic flow .
 .A

@@ -1,4 +1,3 @@
-1398
 .T
 stability of rectangular plates under shear and bending
 forces .

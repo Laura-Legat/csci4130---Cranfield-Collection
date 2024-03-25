@@ -1,4 +1,3 @@
-380
 .T
 effect of quasi-steady air forces on incompressible
 bending-torsion flutter .

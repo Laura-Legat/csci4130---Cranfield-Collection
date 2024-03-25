@@ -1,4 +1,3 @@
-1124
 .T
 design of missile bodies for minimum drag at very high
 speeds - thickness ratio, lift, and center of pressure

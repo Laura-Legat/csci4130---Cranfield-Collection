@@ -1,4 +1,3 @@
-1094
 .T
 investigation of the effects of ground proximity and
 propeller position on the effectiveness of a wing with

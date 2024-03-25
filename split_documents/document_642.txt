@@ -1,4 +1,3 @@
-642
 .T
 the buckling strength of a uniform circular cylinder
 loaded in axial compression .

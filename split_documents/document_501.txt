@@ -1,4 +1,3 @@
-501
 .T
 stagnation-point shock detachment of blunt bodies in
 supersonic flow .

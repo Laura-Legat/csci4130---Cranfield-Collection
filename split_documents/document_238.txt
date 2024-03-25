@@ -1,4 +1,3 @@
-238
 .T
 on a determination of the pitot-static tube factor
 at low reynolds numbers, with special reference to

@@ -1,4 +1,3 @@
-1313
 .T
 on the flow in a reflected shock tunnel .
 .A

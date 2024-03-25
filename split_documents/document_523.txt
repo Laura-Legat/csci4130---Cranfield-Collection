@@ -1,4 +1,3 @@
-523
 .T
 approximate determination of position of the sonic
 line for a blunt body in hypersonic flow .

@@ -1,4 +1,3 @@
-454
 .T
 several approximate analyses of the bending of a rectangular
 cantilever plate by uniform normal pressure .

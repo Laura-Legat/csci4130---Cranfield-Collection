@@ -1,4 +1,3 @@
-1224
 .T
 on the plk method and the supersonic blunt-body problem .
 .A

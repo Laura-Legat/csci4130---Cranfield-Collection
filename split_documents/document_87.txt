@@ -1,4 +1,3 @@
-87
 .T
 free-convection magnetohydrodynamic flow past a porous flat plate .
 .A

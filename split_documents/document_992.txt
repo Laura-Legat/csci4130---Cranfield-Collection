@@ -1,4 +1,3 @@
-992
 .T
 the effects of a small jet of air exhausting from the nose of a body
 of revolution in supersonic flow .

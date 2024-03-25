@@ -1,4 +1,3 @@
-676
 .T
 a simple method for calculating the span and chordwise loading on
 straight and swept wings of any aspect ratio at subsonic speeds .

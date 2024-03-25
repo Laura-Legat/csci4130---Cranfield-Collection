@@ -1,4 +1,3 @@
-203
 .T
 calculated velocity distributions and force derivatives
 for a series of high-speed aerofoils .

@@ -1,4 +1,3 @@
-263
 .T
 cylindrical shock waves produced by instantaneous energy
 release .

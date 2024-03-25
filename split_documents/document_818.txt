@@ -1,4 +1,3 @@
-818
 .T
 a quantitative comparison of flow and deformation theories
 of plasticity .

@@ -1,4 +1,3 @@
-1174
 .T
 general theory of buckling .
 .A

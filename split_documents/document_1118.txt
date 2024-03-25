@@ -1,4 +1,3 @@
-1118
 .T
 elastic stability of orthotropic shells .
 .A

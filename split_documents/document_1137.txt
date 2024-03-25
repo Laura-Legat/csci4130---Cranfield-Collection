@@ -1,4 +1,3 @@
-1137
 .T
 on the theory of thin elastic toroidal shells .
 .A

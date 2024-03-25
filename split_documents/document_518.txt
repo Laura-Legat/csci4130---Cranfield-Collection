@@ -1,4 +1,3 @@
-518
 .T
 heat conduction through a polyatomic gas .
 .A

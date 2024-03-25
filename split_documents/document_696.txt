@@ -1,4 +1,3 @@
-696
 .T
 pressure loads produced on a flat-plate wing by rocket jets exhausting
 in a spanwise direction below the wing and perpendicular to a

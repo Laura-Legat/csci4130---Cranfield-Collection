@@ -1,4 +1,3 @@
-761
 .T
 buckling of sandwich under normal pressure .
 .A

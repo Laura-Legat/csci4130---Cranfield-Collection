@@ -1,4 +1,3 @@
-196
 .T
 pressure distributions . axially symmetric bodies in
 oblique flow .

@@ -1,4 +1,3 @@
-1177
 .T
 effects of rapid heating on strength of airframe components .
 .A

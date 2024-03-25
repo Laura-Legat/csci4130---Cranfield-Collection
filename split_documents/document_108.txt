@@ -1,4 +1,3 @@
-108
 .T
 properties of the confluent hypergeometric function .
 .A

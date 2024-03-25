@@ -1,4 +1,3 @@
-1121
 .T
 compressive and torsional buckling of thin-wall cylinders
 in the yield region .

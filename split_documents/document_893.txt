@@ -1,4 +1,3 @@
-893
 .T
 a new design of pitot-static tube with a discussion
 of pitot-static tubes and their calibration factors .

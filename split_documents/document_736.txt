@@ -1,4 +1,3 @@
-736
 .T
 the bending of a wedge shaped plate .
 .A

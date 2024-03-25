@@ -1,4 +1,3 @@
-1073
 .T
 a practical method for numerical evaluation of solutions
 of partial differential equations of the heat-conduction

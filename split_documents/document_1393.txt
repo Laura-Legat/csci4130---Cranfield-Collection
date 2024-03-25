@@ -1,4 +1,3 @@
-1393
 .T
 heat transfer near the forward stagnation point of
 a body of revolution .

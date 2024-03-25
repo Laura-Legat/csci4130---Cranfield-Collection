@@ -1,4 +1,3 @@
-837
 .T
 inelastic behaviour of structures subjected to cyclic
 thermal and mechanical stressing conditions .

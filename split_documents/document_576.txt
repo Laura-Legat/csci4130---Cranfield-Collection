@@ -1,4 +1,3 @@
-576
 .T
 viscous and inviscid stagnation flow in a dissociated hypervelocity free
  stream .

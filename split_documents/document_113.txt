@@ -1,4 +1,3 @@
-113
 .T
 acoustical signal detection in turbulent airflow .
 .A

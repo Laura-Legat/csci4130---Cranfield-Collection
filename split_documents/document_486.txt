@@ -1,4 +1,3 @@
-486
 .T
 similarity laws for aerothermoelastic testing .
 .A

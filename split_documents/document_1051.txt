@@ -1,4 +1,3 @@
-1051
 .T
 the stability of thin-walled unstiffened circular cylinders
 under axial compression including the effects of internal

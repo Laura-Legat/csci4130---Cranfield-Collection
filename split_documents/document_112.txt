@@ -1,4 +1,3 @@
-112
 .T
 steady motion of conducting fluids in pipes under transverse
 magnetic fields .

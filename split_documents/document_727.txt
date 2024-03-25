@@ -1,4 +1,3 @@
-727
 .T
 a study of the acoustic fatigue characteristics of
 some flat and curved aluminium panels exposed to random

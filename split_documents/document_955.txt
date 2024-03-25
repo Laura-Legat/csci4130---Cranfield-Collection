@@ -1,4 +1,3 @@
-955
 .T
 the membrane approach to bending instability of pressureized
 cylindrical shells .

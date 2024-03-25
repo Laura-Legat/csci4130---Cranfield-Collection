@@ -1,4 +1,3 @@
-551
 .T
 analysis of a loaded cantilever plate by finite difference
 methods .

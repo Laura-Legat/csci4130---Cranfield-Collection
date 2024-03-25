@@ -1,4 +1,3 @@
-1060
 .T
 buckled states of circular plates .
 .A

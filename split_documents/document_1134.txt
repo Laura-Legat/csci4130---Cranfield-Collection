@@ -1,4 +1,3 @@
-1134
 .T
 torispherical shells - a caution to designers .
 .A

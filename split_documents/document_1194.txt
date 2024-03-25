@@ -1,4 +1,3 @@
-1194
 .T
 magnetohydrodynamic flow past a thin airfoil .
 .A

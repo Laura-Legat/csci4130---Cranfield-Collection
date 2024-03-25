@@ -1,4 +1,3 @@
-912
 .T
 the axisymmetric free-convection temperature field
 along a vertical thin cylinder .

@@ -1,4 +1,3 @@
-907
 .T
 cavitation and pressure distribution
 head forms at zero angle of yaw .

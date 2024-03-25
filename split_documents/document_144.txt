@@ -1,4 +1,3 @@
-144
 .T
 heat flow in composite slabs .
 .A

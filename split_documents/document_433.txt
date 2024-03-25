@@ -1,4 +1,3 @@
-433
 .T
 application of two dimensional vortex theory to the
 prediction of flow fields behind wings of wing-body

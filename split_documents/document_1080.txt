@@ -1,4 +1,3 @@
-1080
 .T
 viscous flow round a sphere at low reynolds numbers . /l40/ .
 .A

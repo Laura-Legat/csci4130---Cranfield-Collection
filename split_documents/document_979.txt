@@ -1,4 +1,3 @@
-979
 .T
 correlation of base pressure and wake structure of
 sharp and blunt-nose cones with reynolds number based

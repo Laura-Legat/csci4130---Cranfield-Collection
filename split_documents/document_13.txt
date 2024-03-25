@@ -1,4 +1,3 @@
-13
 .T
 similarity laws for stressing heated wings .
 .A

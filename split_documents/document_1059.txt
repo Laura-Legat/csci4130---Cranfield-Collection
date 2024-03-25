@@ -1,4 +1,3 @@
-1059
 .T
 the nonlinear conical spring .
 .A

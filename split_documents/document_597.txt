@@ -1,4 +1,3 @@
-597
 .T
 measurements of pitching moment derivatives for blunt-nose aerofoils
 oscillating in two-dimensional supersonic flow .

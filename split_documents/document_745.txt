@@ -1,4 +1,3 @@
-745
 .T
 an automatic method for finding the greatest or least
 value function .

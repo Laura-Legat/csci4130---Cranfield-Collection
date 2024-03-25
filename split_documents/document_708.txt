@@ -1,4 +1,3 @@
-708
 .T
 aerodynamic characteristics of two winged reentry vehicles at supersonic
  and hypersonic speeds .

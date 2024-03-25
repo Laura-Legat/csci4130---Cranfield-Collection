@@ -1,4 +1,3 @@
-352
 .T
 on heat transfer over a sweat-cooled surface in laminar
 compressible flow with a pressure gradient .

@@ -1,4 +1,3 @@
-1090
 .T
 pressure distribution and force measurements on a vtol
 tilting wing-propeller model . pt .ii, analysis of

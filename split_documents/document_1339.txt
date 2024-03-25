@@ -1,4 +1,3 @@
-1339
 .T
 calculation of flutter characteristics for finite-span swept or unswept
 wings at subsonic and supersonic speeds by a modified strip analysis .

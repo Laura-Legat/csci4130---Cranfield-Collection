@@ -1,4 +1,3 @@
-1249
 .T
 plasma flow over a thin charged conductor .
 .A

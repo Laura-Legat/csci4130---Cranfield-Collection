@@ -1,4 +1,3 @@
-711
 .T
 an investigation at subsonic speeds of aerodynamic characteristics at
 angles of attack from -dash 4degrees to 100degrees of a delta-wing

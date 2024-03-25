@@ -1,4 +1,3 @@
-264
 .T
 asymptotic solution of the two dimensional oscillating
 aerofoil problem for high subsonic mach numbers .

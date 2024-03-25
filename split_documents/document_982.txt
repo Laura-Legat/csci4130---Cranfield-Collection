@@ -1,4 +1,3 @@
-982
 .T
 the temperature history in a thick skin subjected to laminar heating
 during entry into the atmosphere .

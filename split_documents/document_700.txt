@@ -1,4 +1,3 @@
-700
 .T
 two and three-dimensional unsteady lift problems in high speed flight .
 .A

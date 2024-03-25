@@ -1,4 +1,3 @@
-1144
 .T
 slipstream flow around several tilt-wing vtol aircraft models
 operating near the ground .

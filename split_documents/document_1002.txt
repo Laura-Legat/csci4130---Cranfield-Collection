@@ -1,4 +1,3 @@
-1002
 .T
 preliminary investigations of spiked bodies at hypersonic speeds .
 .A

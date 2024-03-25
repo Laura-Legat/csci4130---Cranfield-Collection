@@ -1,4 +1,3 @@
-435
 .T
 application of similar solutions to calculations of
 laminar heat transfer on bodies with yaw and large

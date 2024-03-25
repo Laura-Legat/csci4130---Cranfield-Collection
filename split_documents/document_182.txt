@@ -1,4 +1,3 @@
-182
 .T
 effect of roughness on transition in supersonic flow .
 .A

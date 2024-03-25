@@ -1,4 +1,3 @@
-90
 .T
 periodic temperature distributions in a two-layer composite
 slab .

@@ -1,4 +1,3 @@
-652
 .T
 pressure distribution on two dimensional wings near
 the ground .

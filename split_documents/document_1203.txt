@@ -1,4 +1,3 @@
-1203
 .T
 the propagation of a nonuniform magnetohydrodynamic
 shock wave into a moving monatomic fluid .

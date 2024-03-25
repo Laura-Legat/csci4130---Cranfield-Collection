@@ -1,4 +1,3 @@
-267
 .T
 steady and transient free convection of an electrically
 conducting fluid from a vertical plate in the presence

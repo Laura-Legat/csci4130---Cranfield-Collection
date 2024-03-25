@@ -1,4 +1,3 @@
-1162
 .T
 force-test investigation of the stability and control
 characteristics of a 1/8 scale model of a tilt-wing

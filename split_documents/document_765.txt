@@ -1,4 +1,3 @@
-765
 .T
 clamped short oval cylindrical shells under hydrostatic
 pressure .

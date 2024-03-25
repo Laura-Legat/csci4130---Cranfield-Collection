@@ -1,4 +1,3 @@
-1156
 .T
 experimental investigation of attenuation of strong
 shock waves in a shock tube with hydrogen and helium

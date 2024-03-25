@@ -1,4 +1,3 @@
-931
 .T
 stability equations for conical shells .
 .A

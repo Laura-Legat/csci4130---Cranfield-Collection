@@ -1,4 +1,3 @@
-701
 .T
 numerical determination of indical lift of a two-dimensional sinking
 airfoil at subsonic mach numbers from oscillatory lift coefficients with

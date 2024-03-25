@@ -1,4 +1,3 @@
-370
 .T
 theoretical pressure distribution on a hemisphere-cylinder
 combination .

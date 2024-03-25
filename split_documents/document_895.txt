@@ -1,4 +1,3 @@
-895
 .T
 the airforces on the low aspect ratio rectangular wing
 oscillating in sonic flow .

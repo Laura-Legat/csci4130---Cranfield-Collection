@@ -1,4 +1,3 @@
-1128
 .T
 face wrinkling and core strength in sandwich construction .
 .A

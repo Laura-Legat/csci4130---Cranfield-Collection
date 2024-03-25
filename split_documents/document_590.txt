@@ -1,4 +1,3 @@
-590
 .T
 effects of stage characteristics and matching on axial flow compressor
 performance .

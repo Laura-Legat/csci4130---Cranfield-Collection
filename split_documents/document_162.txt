@@ -1,4 +1,3 @@
-162
 .T
 nearly circular transfer trajectories for descending
 satellites .

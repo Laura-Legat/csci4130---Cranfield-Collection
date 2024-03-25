@@ -1,4 +1,3 @@
-1202
 .T
 uniformly valid second-order solution for supersonic
 flow over cruciform surfaces .

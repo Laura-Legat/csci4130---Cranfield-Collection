@@ -1,4 +1,3 @@
-1072
 .T
 ignition and combustion in a laminar mixing zone .
 .A

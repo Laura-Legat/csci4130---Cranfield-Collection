@@ -1,4 +1,3 @@
-1391
 .T
 shock wave and flow field development in hypersonic re-entry .
 .A

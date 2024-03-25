@@ -1,4 +1,3 @@
-399
 .T
 conduction of heat in composite slabs .
 .A

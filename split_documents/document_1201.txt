@@ -1,4 +1,3 @@
-1201
 .T
 a study of slender shapes of minimum drag using the
 newton-busemann pressure coefficient law .

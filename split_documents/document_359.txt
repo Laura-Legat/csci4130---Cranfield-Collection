@@ -1,4 +1,3 @@
-359
 .T
 note on the hypersonic similarity law for an unyawed
 cone .

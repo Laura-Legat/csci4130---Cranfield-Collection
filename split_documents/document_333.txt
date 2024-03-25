@@ -1,4 +1,3 @@
-333
 .T
 boundary-layer interaction on a yawed infinite wing in hypersonic
 flow .

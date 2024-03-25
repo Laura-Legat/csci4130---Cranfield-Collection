@@ -1,4 +1,3 @@
-277
 .T
 study of flow conditions and deflection angle at exit
 of two-dimensional cascade of turbine rotor blades

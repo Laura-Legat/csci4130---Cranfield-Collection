@@ -1,4 +1,3 @@
-1061
 .T
 turbulent mixing of a rocket exhaust jet with a supersonic stream
 including chemical reactions .

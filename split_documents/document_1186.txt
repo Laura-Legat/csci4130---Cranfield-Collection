@@ -1,4 +1,3 @@
-1186
 .T
 lift of slender delta wings according to newtonian
 theory .

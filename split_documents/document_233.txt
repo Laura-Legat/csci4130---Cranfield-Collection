@@ -1,4 +1,3 @@
-233
 .T
 the theoretical wave drag of some bodies of revolution .
 .A

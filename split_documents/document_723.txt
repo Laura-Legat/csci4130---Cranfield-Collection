@@ -1,4 +1,3 @@
-723
 .T
 on the fatigue failure of structures due to vibrations excited
 by random pressure fields .

@@ -1,4 +1,3 @@
-854
 .T
 boundary-value problems of the thin-walled circular
 cylinder .

@@ -1,4 +1,3 @@
-1288
 .T
 analysis of the fluid mechanics of secondary injection
 for thrust vector control .

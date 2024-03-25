@@ -1,4 +1,3 @@
-516
 .T
 free-flight measurements of the dynamic longitudinal
 stability characteristics of a wind tunnel interference

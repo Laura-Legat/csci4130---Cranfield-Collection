@@ -1,4 +1,3 @@
-1153
 .T
 a study of the simulation of flow with free stream mach number 1 in a
 choked wind tunnel .

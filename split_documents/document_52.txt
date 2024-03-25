@@ -1,4 +1,3 @@
-52
 .T
 procedure for calculating flutter at high supersonic
 speed including camber deflections, and comparison

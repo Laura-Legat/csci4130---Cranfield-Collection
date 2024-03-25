@@ -1,4 +1,3 @@
-223
 .T
 a note on the theory of the stanton tube .
 .A

@@ -1,4 +1,3 @@
-1102
 .T
 a five-stage solid fuel sounding rocket system .
 .A

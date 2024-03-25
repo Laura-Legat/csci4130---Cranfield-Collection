@@ -1,4 +1,3 @@
-1108
 .T
 a study of second-order supersonic flow theory .
 .A

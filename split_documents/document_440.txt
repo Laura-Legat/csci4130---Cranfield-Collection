@@ -1,4 +1,3 @@
-440
 .T
 compilation of information on the transonic attachment
 of flows at the leading edge of airfoils .

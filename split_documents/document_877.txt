@@ -1,4 +1,3 @@
-877
 .T
 the influence of aerodynamic heating on the flexural
 rigidity of a thin wing .

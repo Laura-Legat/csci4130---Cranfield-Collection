@@ -1,4 +1,3 @@
-115
 .T
 on turbulent lubrication .
 .A

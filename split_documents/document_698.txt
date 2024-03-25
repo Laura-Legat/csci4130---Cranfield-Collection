@@ -1,4 +1,3 @@
-698
 .T
 the unsteady lift of a wing of finite aspect ratio .
 .A

@@ -1,4 +1,3 @@
-800
 .T
 wall interference at transonic speeds on a hemisphere cylinder model .
 .A

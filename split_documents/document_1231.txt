@@ -1,4 +1,3 @@
-1231
 .T
 hypersonic flow over an elliptic cone: theory and experiment .
 .A

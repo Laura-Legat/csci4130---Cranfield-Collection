@@ -1,4 +1,3 @@
-1138
 .T
 asymptotic solutions of toroidal shell problems .
 .A

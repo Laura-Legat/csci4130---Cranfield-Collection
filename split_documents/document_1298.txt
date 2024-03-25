@@ -1,4 +1,3 @@
-1298
 .T
 theory of radiation from luminous shock waves in nitrogen .
 .A

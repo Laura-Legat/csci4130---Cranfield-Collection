@@ -1,4 +1,3 @@
-1253
 .T
 hypersonic viscous flow near the stagnation point in
 the presence of magnetic field .

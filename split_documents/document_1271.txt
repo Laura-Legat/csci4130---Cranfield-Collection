@@ -1,4 +1,3 @@
-1271
 .T
 theory of supersonic propeller aerodynamics .
 .A

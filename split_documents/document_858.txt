@@ -1,4 +1,3 @@
-858
 .T
 experimental investigation at mach numbers 3. 0 of
 the effects of thermal stress and buckling on the flutter

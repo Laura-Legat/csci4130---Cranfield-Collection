@@ -1,4 +1,3 @@
-360
 .T
 lift on inclined bodies of revolution in hypersonic flow .
 .A

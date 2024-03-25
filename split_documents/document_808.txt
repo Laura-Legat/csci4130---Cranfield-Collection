@@ -1,4 +1,3 @@
-808
 .T
 an investigation of some aspects of the sonic boom
 by means of wind tunnel measurements of pressures about

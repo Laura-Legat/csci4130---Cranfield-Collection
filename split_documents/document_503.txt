@@ -1,4 +1,3 @@
-503
 .T
 theoretical prediction of the transonic characteristics
 of airfoils .

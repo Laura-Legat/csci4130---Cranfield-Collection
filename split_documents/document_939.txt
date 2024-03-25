@@ -1,4 +1,3 @@
-939
 .T
 some explicit solutions for constant-temp . magnetogas
 dynamic channel flow .

@@ -1,4 +1,3 @@
-519
 .T
 base pressure at supersonic speeds in the presence
 of a supersonic jet .

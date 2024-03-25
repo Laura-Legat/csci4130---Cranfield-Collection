@@ -1,4 +1,3 @@
-1133
 .T
 a simple extension of southwell's method for determining the elastic
 general instability pressure of ring-stiffened cylinders subject

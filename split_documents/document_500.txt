@@ -1,4 +1,3 @@
-500
 .T
 joule heating in magnetohydrodynamic free-convection
 flows .

@@ -1,4 +1,3 @@
-1164
 .T
 effect of ground proximity on the aerodynamic characteristics
 of a four- engined vertical take-off and landing transport

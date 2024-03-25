@@ -1,4 +1,3 @@
-607
 .T
 duct flow in magnetohydrodynamics .
 .A

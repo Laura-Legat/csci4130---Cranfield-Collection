@@ -1,4 +1,3 @@
-1155
 .T
 some experimental investigations on the influence of wall boundary
 layers upon wind tunnel measurements at high subsonic speeds .

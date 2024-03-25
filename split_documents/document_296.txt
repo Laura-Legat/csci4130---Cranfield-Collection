@@ -1,4 +1,3 @@
-296
 .T
 notes on waves through gases at pressures small compared
 with the magnetic pressure, with applications to upper

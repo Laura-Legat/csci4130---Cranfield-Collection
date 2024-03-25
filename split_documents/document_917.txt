@@ -1,4 +1,3 @@
-917
 .T
 a method of calculating the short period longitudinal
 stability derivatives of a wing in linearised unsteady

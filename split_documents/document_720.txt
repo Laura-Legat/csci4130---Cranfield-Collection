@@ -1,4 +1,3 @@
-720
 .T
 a note on the use of sandwich structures in severe acoustic
 environments .

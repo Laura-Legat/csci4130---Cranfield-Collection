@@ -1,4 +1,3 @@
-817
 .T
 loading paths and the incremental stress law .
 .A

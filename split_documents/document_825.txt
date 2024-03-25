@@ -1,4 +1,3 @@
-825
 .T
 inelastic instability and incremental theories of plasticity .
 .A

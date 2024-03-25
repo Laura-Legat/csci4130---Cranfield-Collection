@@ -1,4 +1,3 @@
-1150
 .T
 preliminary results of density measurements from an air force satellite.
 .A

@@ -1,4 +1,3 @@
-72
 .T
 boundary layer behind shock or thin expansion wave
 moving into stationary fluid .

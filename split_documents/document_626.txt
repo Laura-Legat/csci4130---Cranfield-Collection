@@ -1,4 +1,3 @@
-626
 .T
 some features of supersonic and hypersonic flow about
 blunted cones .

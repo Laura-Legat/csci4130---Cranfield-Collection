@@ -1,4 +1,3 @@
-633
 .T
 an extension of the method of generalised conical flows
 for lifting wings in supersonic flow .

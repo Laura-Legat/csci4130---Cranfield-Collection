@@ -1,4 +1,3 @@
-920
 .T
 supersonic flow over an inclined wing of zero aspect ratio .
 .A

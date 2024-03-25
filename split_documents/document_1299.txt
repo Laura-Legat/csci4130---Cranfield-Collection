@@ -1,4 +1,3 @@
-1299
 .T
 hypersonic viscous shock layer .
 .A

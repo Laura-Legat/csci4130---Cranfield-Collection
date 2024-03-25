@@ -1,4 +1,3 @@
-560
 .T
 a theoretical study of the effect of upstream
 transpiration-cooling on the heat transfer and skin friction characteristics

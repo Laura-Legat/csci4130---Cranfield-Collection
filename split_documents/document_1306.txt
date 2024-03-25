@@ -1,4 +1,3 @@
-1306
 .T
 experiments on circular cones at yaw in supersonic
 flow .

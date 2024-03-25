@@ -1,4 +1,3 @@
-1258
 .T
 heat transfer, recovery factor and pressure distributions
 around a circular cylinder normal to a supersonic rarefied

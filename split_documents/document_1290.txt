@@ -1,4 +1,3 @@
-1290
 .T
 measured and calculated subsonic and transonic flutter
 characteristics of a 45 sweptback wing planform in

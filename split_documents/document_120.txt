@@ -1,4 +1,3 @@
-120
 .T
 measurement of convective heat transfer by means of
 the reynolds analogy .

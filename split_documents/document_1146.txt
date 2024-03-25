@@ -1,4 +1,3 @@
-1146
 .T
 thermal buckling of cylinders .
 .A

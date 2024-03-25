@@ -1,4 +1,3 @@
-873
 .T
 lagrangian thermodynamics of heat transfer in systems
 including fluid motion .

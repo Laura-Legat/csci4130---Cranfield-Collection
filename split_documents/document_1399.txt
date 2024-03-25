@@ -1,4 +1,3 @@
-1399
 .T
 buckling of transverse stiffened plates under shear .
 .A

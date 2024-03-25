@@ -1,4 +1,3 @@
-670
 .T
 on blunt-body heat transfer at hypersonic speed and low reynolds
 number .

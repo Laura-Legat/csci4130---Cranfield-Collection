@@ -1,4 +1,3 @@
-1103
 .T
 pressures, densities and temperatures in the upper atmosphere .
 .A

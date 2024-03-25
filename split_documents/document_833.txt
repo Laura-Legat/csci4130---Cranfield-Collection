@@ -1,4 +1,3 @@
-833
 .T
 a simple method of matric structural analysis, part
 iv, non-linear problems .

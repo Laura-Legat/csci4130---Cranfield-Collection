@@ -1,4 +1,3 @@
-520
 .T
 wing-tail interference as a cause of 'magnus' effects
 on a finned missile .

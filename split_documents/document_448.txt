@@ -1,4 +1,3 @@
-448
 .T
 induction drag on a large negatively charged satellite
 moving in a magnetic-field-free ionosphere .

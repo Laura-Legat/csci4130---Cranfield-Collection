@@ -1,4 +1,3 @@
-950
 .T
 comparison of theoretical and experimental creep buckling
 times of initially straight, centrally loaded columns .

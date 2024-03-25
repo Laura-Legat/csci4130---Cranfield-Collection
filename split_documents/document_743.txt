@@ -1,4 +1,3 @@
-743
 .T
 new developments in the nonlinear theories of the buckling of thin
 cylindrical shells .

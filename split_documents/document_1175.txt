@@ -1,4 +1,3 @@
-1175
 .T
 stresses from local loadings in cylindrical pressure
 vessels .

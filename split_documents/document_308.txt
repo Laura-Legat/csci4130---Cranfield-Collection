@@ -1,4 +1,3 @@
-308
 .T
 on the hypersonic viscous flow past a flat plate with
 suction or injection .

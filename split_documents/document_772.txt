@@ -1,4 +1,3 @@
-772
 .T
 an experimental study of jet-flap compressor blades .
 .A

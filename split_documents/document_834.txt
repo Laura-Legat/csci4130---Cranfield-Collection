@@ -1,4 +1,3 @@
-834
 .T
 limit design for economical missile structures .
 .A

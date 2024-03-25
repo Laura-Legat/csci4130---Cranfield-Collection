@@ -1,4 +1,3 @@
-1359
 .T
 compression tests on circular cylinders stiffened longitudinally
 by closely spaced z-section stringers .

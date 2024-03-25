@@ -1,4 +1,3 @@
-492
 .T
 prediction of ogive-forebody pressures at angles of attack .
 .A

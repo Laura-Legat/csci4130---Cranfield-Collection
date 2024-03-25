@@ -1,4 +1,3 @@
-1285
 .T
 experiments at hypersonic speeds on circular cones
 at incidence .

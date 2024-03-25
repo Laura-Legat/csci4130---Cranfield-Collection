@@ -1,4 +1,3 @@
-1208
 .T
 a linearized analysis of the forces exerted on a rigid
 wing by a shock wave .

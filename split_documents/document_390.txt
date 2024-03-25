@@ -1,4 +1,3 @@
-390
 .T
 some panel-flutter studies using piston theory .
 .A

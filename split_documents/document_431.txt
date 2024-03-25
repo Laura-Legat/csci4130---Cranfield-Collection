@@ -1,4 +1,3 @@
-431
 .T
 free-flight measurements of the zero-lift drag and
 base pressure on a wind tunnel interference model (m=0 .

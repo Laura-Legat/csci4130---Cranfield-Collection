@@ -1,4 +1,3 @@
-1092
 .T
 wing-nacelle-propeller interference for wings of various
 spans . force and pressure distribution tests .

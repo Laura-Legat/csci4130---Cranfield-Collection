@@ -1,4 +1,3 @@
-1200
 .T
 hypersonic viscous flow over a sweat-cooled flat plate .
 .A

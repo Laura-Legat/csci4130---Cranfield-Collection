@@ -1,4 +1,3 @@
-776
 .T
 force measurements on square and dodecagonal sectional
 cylinders at high reynolds numbers .
