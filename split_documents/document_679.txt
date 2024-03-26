@@ -1,4 +1,3 @@
-679
 .T
 low speed tests on 45 sweptback wings .
 .A

@@ -1,4 +1,3 @@
-863
 .T
 loads and deformations of buckled rectangular plates .
 .A

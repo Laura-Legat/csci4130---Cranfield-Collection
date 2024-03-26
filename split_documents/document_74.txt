@@ -1,4 +1,3 @@
-74
 .T
 an experimental study of the turbulen coundary layer
 on a shock tube wall .

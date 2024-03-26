@@ -1,4 +1,3 @@
-270
 .T
 on combined free and forced convection laminar magnetohydrodynamic
 flow and heat transfer in channels with transverse

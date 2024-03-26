@@ -1,4 +1,3 @@
-564
 .T
 local heat transfer and recovery temperature on a yawed
 cylinder at a mach number of 4. 15 and high reynolds

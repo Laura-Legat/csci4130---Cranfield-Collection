@@ -1,4 +1,3 @@
-446
 .T
 wake of a satellite traversing the ionosphere .
 .A

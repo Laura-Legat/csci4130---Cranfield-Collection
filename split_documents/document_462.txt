@@ -1,4 +1,3 @@
-462
 .T
 photo-thermoelasticity .
 .A

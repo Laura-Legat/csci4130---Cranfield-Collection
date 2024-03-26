@@ -1,4 +1,3 @@
-307
 .T
 an approximate solution of hypersonic laminar boundary
 layer equations and its application .

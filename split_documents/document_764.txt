@@ -1,4 +1,3 @@
-764
 .T
 breathing vibrations of a circular shell with an internal
 liquid .

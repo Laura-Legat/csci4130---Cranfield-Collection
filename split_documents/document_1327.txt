@@ -1,4 +1,3 @@
-1327
 .T
 on the propagation and structure of the blast wave .
 .A

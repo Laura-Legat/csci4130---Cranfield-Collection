@@ -1,4 +1,3 @@
-1295
 .T
 recent advances in nonequilibrium dissociating gasdynamics .
 .A

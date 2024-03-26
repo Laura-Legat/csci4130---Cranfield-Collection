@@ -1,4 +1,3 @@
-1045
 .T
 the bending strength of pressurized cylinders .
 .A

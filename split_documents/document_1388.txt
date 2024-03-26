@@ -1,4 +1,3 @@
-1388
 .T
 a process for the step-by-step integration of differential
 equations in an automatic digital computing machine .

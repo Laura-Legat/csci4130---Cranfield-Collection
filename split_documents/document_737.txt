@@ -1,4 +1,3 @@
-737
 .T
 on the analysis of elastic plates of variable thickness .
 .A

@@ -1,4 +1,3 @@
-1269
 .T
 a study of supersonic combustion .
 .A

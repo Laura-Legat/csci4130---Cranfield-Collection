@@ -1,4 +1,3 @@
-577
 .T
 on hypersonic similitude .
 .A

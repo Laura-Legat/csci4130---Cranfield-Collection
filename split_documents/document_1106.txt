@@ -1,4 +1,3 @@
-1106
 .T
 free-flight observation of a separated turbulent flow
 including heat transfer up to mach 8. 5.

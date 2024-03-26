@@ -1,4 +1,3 @@
-401
 .T
 inviscid hypersonic airflows with coupled non-equilibrium
 processes .

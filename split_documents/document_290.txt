@@ -1,4 +1,3 @@
-290
 .T
 dynamic stability of a missile in rolling flight .
 .A

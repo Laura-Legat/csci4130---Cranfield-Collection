@@ -1,4 +1,3 @@
-346
 .T
 measurements of turbulent friction on a smooth flat plate in supersonic .
 .A

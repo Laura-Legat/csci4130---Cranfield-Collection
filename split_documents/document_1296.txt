@@ -1,4 +1,3 @@
-1296
 .T
 non-equilibrium expansions of air with coupled chemical
 reactions .

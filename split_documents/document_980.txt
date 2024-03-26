@@ -1,4 +1,3 @@
-980
 .T
 a method of computing the transient temperature of thick walls from
 arbitrary variation of adiabatic-wall temperature and heat-transfer

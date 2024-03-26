@@ -1,4 +1,3 @@
-55
 .T
 separation, stability and other properties of compressible
 laminar boundary layer with pressure gradient and heat

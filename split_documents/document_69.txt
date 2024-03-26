@@ -1,4 +1,3 @@
-69
 .T
 predicted shock envelopes about two types of vehicles
 at large angles of attack .

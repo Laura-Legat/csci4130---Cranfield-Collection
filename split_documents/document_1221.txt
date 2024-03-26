@@ -1,4 +1,3 @@
-1221
 .T
 steady flow of conducting fluids in channels under
 transverse magnetic fields, with consideration of hall

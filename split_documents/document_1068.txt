@@ -1,4 +1,3 @@
-1068
 .T
 instability analysis of cylindrical shells under hydrostatic
 pressure .

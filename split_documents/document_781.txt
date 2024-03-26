@@ -1,4 +1,3 @@
-781
 .T
 use of subsonic kernel function in an influence-coefficient method of
 aeroelastic analysis and some comparisons with experiment .

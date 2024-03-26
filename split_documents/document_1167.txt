@@ -1,4 +1,3 @@
-1167
 .T
 an experimental study of the effect of downwash from
 a twin-propeller vtol aircraft on several types of

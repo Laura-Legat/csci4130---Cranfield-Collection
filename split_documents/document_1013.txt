@@ -1,4 +1,3 @@
-1013
 .T
 principles of creep buckling weight-strength analysis .
 .A

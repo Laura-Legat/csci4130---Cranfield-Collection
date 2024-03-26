@@ -1,4 +1,3 @@
-1027
 .T
 note on creep buckling of columns .
 .A

@@ -1,4 +1,3 @@
-1139
 .T
 the effect of entrance velocity on the flow of a rarefied
 gas, through a tube .

@@ -1,4 +1,3 @@
-63
 .T
 hypersonic viscous flow over slender cones .
 .A

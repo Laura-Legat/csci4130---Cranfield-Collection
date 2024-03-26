@@ -1,4 +1,3 @@
-311
 .T
 a method for predicting the onset of buffeting and other separation
 effects from wind tunnel tests on rigid models .

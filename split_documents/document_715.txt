@@ -1,4 +1,3 @@
-715
 .T
 motion of a ballistic missile angularly misaligned
 with the flight path upon entering the atmosphere and

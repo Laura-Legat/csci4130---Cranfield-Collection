@@ -1,4 +1,3 @@
-929
 .T
 stability of the cylindrical shell of variable curvature .
 .A

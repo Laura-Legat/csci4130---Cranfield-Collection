@@ -1,4 +1,3 @@
-450
 .T
 some physical interpretations of magnetohydrodynamic duct flows .
 .A

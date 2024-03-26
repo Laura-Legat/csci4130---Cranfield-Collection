@@ -1,4 +1,3 @@
-179
 .T
 an analysis of base pressure at supersonic speeds and
 comparison with experiment .

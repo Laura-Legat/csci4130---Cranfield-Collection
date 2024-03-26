@@ -1,4 +1,3 @@
-509
 .T
 a graphical approximation for temperatures and sublimation rates at
 surfaces subjected to small net and large gross heat transfer rates .

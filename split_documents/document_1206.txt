@@ -1,4 +1,3 @@
-1206
 .T
 magnetohydrodynamic mach cones .
 .A

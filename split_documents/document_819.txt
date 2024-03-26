@@ -1,4 +1,3 @@
-819
 .T
 stresses in the plastic range around a normally loaded
 circular hole in an infinite sheet .

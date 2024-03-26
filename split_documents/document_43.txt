@@ -1,4 +1,3 @@
-43
 .T
 the relation between wall temperature and the effect
 of roughness on boundary layer transition .

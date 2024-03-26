@@ -1,4 +1,3 @@
-419
 .T
 the design of intermediate vertical stiffeners on web
 plates subjected to shear .

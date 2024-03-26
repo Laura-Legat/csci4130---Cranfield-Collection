@@ -1,4 +1,3 @@
-901
 .T
 long slender delta wings with leading edge separation .
 .A

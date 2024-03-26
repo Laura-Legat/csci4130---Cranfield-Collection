@@ -1,4 +1,3 @@
-643
 .T
 an investigation of wing-aileron flutter using ground
 launched rocket models .

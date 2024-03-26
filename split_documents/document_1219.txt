@@ -1,4 +1,3 @@
-1219
 .T
 determination of lift or drag programs to minimize
 re-entry heating .

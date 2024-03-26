@@ -1,4 +1,3 @@
-891
 .T
 buckling of a finite length cylindrical shell under
 a circumferential band of pressure .

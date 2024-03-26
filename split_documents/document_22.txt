@@ -1,4 +1,3 @@
-22
 .T
 on slip-flow heat transfer to a flat plate .
 .A

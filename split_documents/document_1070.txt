@@ -1,4 +1,3 @@
-1070
 .T
 buckling of orthotropic and stiffened conical shells .
 .A

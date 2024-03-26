@@ -1,4 +1,3 @@
-1089
 .T
 aerodynamic characteristics of propeller-driven vtol
 aircraft .

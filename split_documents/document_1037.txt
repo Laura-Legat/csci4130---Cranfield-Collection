@@ -1,4 +1,3 @@
-1037
 .T
 on transverse vibrations of thin, shallow elastic shells .
 .A

@@ -1,4 +1,3 @@
-472
 .T
 waves in supersonic flow .
 .A

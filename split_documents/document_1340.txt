@@ -1,4 +1,3 @@
-1340
 .T
 method of controlling stiffness properties of a solid-construction
 model wing .

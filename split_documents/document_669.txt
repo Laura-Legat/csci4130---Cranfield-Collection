@@ -1,4 +1,3 @@
-669
 .T
 subsonic potential flow past a sphere inside a cylindrical duct .
 .A

@@ -1,4 +1,3 @@
-339
 .T
 experimental evaluation of heat transfer with transpiration
 cooling in a turbulent boundary layer at m=3 .2.

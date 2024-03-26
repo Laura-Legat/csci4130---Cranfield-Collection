@@ -1,4 +1,3 @@
-1105
 .T
 numerical solutions for supersonic flow of an ideal
 gas around blunt two-dimensional bodies .

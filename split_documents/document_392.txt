@@ -1,4 +1,3 @@
-392
 .T
 natural frequencies of rectangular plates with edges
 elastically restrained against rotation .

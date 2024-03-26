@@ -1,4 +1,3 @@
-215
 .T
 the test performance of highly loaded turbine stages
 designed for high pressure ratio .

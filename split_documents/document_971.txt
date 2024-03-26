@@ -1,4 +1,3 @@
-971
 .T
 surface pressure distributions with a sonic jet normal to adjacent flat
 surfaces at mach 2.92 to 6.4 .

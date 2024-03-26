@@ -1,4 +1,3 @@
-1223
 .T
 inviscid-incompressible-flow theory of static two-dimensional
 solid jets, in proximity to the ground .

@@ -1,4 +1,3 @@
-499
 .T
 a closed-form solution for the oscillations of a vehicle
 entering a planetary atmosphere .

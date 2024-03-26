@@ -1,4 +1,3 @@
-578
 .T
 dissociation scaling for nonequilibrium blunt nose flows .
 .A

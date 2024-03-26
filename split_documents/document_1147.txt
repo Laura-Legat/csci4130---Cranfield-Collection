@@ -1,4 +1,3 @@
-1147
 .T
 heat transfer to bodies traveling at high speed in the upper
 atmosphere .

@@ -1,4 +1,3 @@
-1342
 .T
 the calculation of aerodynamic loading on surfaces of any shape .
 .A

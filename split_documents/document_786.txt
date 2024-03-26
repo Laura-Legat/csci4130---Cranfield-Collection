@@ -1,4 +1,3 @@
-786
 .T
 the skin friction on infinite cylinders moving parallell to their length .
 .A

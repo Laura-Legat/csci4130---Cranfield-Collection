@@ -1,4 +1,3 @@
-190
 .T
 on magnetohydrodynamic shock waves .
 .A

@@ -1,4 +1,3 @@
-152
 .T
 on the flow of compressible fluid past an obstacle .
 .A

@@ -1,4 +1,3 @@
-768
 .T
 formulae for use with the fatigue load meter in the
 assessment of wing fatigue life .

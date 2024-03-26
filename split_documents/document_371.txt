@@ -1,4 +1,3 @@
-371
 .T
 note on tip-bluntness effects in the supersonic and
 hypersonic regimes .

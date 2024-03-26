@@ -1,4 +1,3 @@
-1057
 .T
 the uniform section disk spring .
 .A

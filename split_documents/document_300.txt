@@ -1,4 +1,3 @@
-300
 .T
 on a particular class of similar solutions of the equations
 of motion and energy of a viscous fluid .

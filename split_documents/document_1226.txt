@@ -1,4 +1,3 @@
-1226
 .T
 heat transfer in the laminar boundary layer with ablation
 of vapor of arbitrary molecular weight .

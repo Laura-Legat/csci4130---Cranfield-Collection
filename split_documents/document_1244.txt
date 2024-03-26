@@ -1,4 +1,3 @@
-1244
 .T
 on the aerodynamic noise of a turbulent jet .
 .A

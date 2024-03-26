@@ -1,4 +1,3 @@
-734
 .T
 the bending of uniformly loaded clamped plate in the
 form of a circular sector .

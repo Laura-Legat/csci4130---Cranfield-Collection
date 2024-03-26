@@ -1,4 +1,3 @@
-886
 .T
 thermal buckling of clamped cylindrical shells .
 .A

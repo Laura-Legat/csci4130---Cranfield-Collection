@@ -1,4 +1,3 @@
-330
 .T
 taylor instability of finite surface waves .
 .A

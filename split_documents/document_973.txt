@@ -1,4 +1,3 @@
-973
 .T
 interaction effects produced by jet exhausting laterally near base of
 ogive-cylinder model in supersonic main stream .

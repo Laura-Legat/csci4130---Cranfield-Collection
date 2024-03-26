@@ -1,4 +1,3 @@
-1099
 .T
 a theoretical study of stagnation point ablation .
 .A

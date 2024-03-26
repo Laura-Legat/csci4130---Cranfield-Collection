@@ -1,4 +1,3 @@
-24
 .T
 theory of stagnation point heat transfer in dissociated
 air .

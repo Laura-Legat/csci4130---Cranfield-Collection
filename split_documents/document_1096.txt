@@ -1,4 +1,3 @@
-1096
 .T
 qualitative measurements of the effective heats of
 ablation of several materials in supersonic air jets

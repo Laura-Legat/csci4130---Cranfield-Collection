@@ -1,4 +1,3 @@
-593
 .T
 theoretical considerations of flutter at high mach
 number .

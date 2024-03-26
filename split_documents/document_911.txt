@@ -1,4 +1,3 @@
-911
 .T
 experimental study of the random vibrations of an aircraft
 structure excited by jet noise .

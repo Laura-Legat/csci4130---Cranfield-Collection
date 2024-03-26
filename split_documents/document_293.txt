@@ -1,4 +1,3 @@
-293
 .T
 recent studies on the effect of cooling on boundary
 layer transition at mach 4.

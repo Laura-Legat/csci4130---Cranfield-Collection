@@ -1,4 +1,3 @@
-884
 .T
 the estimation of fatigue damage on structural elements .
 .A

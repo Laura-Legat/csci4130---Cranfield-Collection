@@ -1,4 +1,3 @@
-294
 .T
 an investigation of laminar transitional and turbulent
 heat transfer on blunt-nosed bodies in hypersonic flow .

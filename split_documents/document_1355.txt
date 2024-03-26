@@ -1,4 +1,3 @@
-1355
 .T
 boundary layer displacement effects in air at mach
 numbers of 6. 8 and 9. 6.

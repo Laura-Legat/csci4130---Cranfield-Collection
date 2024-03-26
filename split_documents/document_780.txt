@@ -1,4 +1,3 @@
-780
 .T
 the transonic characteristics of 38 cambered rectangular
 wings of varying aspect ratio and thickness as determined

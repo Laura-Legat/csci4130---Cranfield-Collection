@@ -1,4 +1,3 @@
-1233
 .T
 supersonic shear flow past an airfoil between two parallel
 walls .

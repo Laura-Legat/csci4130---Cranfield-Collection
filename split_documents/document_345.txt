@@ -1,4 +1,3 @@
-345
 .T
 the interaction of shock waves with boundary layer
 on a flat surface .

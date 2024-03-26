@@ -1,4 +1,3 @@
-1294
 .T
 non-linear shallow shell analysis by the matrix force
 method .

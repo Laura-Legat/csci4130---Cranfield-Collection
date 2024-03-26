@@ -1,4 +1,3 @@
-752
 .T
 slender not-so-thin wing theory .
 .A

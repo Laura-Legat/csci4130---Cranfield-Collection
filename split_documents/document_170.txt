@@ -1,4 +1,3 @@
-170
 .T
 the interaction of a reflected shock wave with the
 boundary layer in a shock tube .

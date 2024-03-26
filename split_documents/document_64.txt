@@ -1,4 +1,3 @@
-64
 .T
 unsteady oblique interaction of a shock wave with plane
 disturbances .

@@ -1,4 +1,3 @@
-132
 .T
 viscosity effects in sound waves of finite amplitude:
 in survey in mechanics .

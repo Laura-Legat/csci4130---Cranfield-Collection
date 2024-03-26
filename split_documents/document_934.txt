@@ -1,4 +1,3 @@
-934
 .T
 stability of cylindrical and conical shells of circular
 cross section, with simultaneous action of axial compression

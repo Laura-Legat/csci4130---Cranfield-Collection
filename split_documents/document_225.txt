@@ -1,4 +1,3 @@
-225
 .T
 elliptic cones alone and with wings at supersonic speeds .
 .A

@@ -1,4 +1,3 @@
-1151
 .T
 experiments on supersonic blunt-body flows .
 .A

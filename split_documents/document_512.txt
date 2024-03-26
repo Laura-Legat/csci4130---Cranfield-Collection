@@ -1,4 +1,3 @@
-512
 .T
 quasi-cylindrical surfaces with prescribed thickness
 distributions .

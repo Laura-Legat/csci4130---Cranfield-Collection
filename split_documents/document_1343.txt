@@ -1,4 +1,3 @@
-1343
 .T
 formulas for the supersonic loading, lift and drag
 of flat swept back wings with leading edges behind

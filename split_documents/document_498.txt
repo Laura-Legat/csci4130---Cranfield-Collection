@@ -1,4 +1,3 @@
-498
 .T
 calculation of potential flow about bodies of revolution
 having axes perpendicular to the free-stream direction .

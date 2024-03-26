@@ -1,4 +1,3 @@
-628
 .T
 thermal effects on a transpiration cooled hemisphere .
 .A

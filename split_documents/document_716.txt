@@ -1,4 +1,3 @@
-716
 .T
 study of the oscillatory motion of manned vehicles
 entering the earth's atmosphere .

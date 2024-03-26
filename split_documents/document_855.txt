@@ -1,4 +1,3 @@
-855
 .T
 simplified formulas for boundary value problems of
 the thin-- walled circular cylinder .

@@ -1,4 +1,3 @@
-428
 .T
 the quasi-cylinder of specified thickness and shell
 loading in supersonic flow .

@@ -1,4 +1,3 @@
-1347
 .T
 approximate analysis of atmospheric entry corridors
 and angles .

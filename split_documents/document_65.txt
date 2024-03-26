@@ -1,4 +1,3 @@
-65
 .T
 convection of a pattern of vorticity through a shock
 wave .

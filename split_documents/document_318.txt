@@ -1,4 +1,3 @@
-318
 .T
 inviscid hypersonic flow past blunt bodies .
 .A

@@ -1,4 +1,3 @@
-76
 .T
 flight measurement of wall pressure fluctuations and
 boundary-layer turbulence .

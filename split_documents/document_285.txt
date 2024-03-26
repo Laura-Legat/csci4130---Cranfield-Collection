@@ -1,4 +1,3 @@
-285
 .T
 on the flutter of panels at high mach numbers .
 .A

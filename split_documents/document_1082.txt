@@ -1,4 +1,3 @@
-1082
 .T
 the flow past pitot tube at low reynolds numbers, part 1-dash the
 numerical solution of the navier-stokes equations for steady viscous

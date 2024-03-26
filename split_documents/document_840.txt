@@ -1,4 +1,3 @@
-840
 .T
 analysis of partly wrinkled membrane .
 .A

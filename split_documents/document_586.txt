@@ -1,4 +1,3 @@
-586
 .T
 an approximate treatment of unsteady heat conduction
 in semi-infinite solids with variable thermal properties .

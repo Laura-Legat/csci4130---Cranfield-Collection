@@ -1,4 +1,3 @@
-998
 .T
 equations, tables and charts for compressible flow .
 .A

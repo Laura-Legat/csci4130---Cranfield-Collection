@@ -1,4 +1,3 @@
-210
 .T
 propeller in yaw .
 .A

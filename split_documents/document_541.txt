@@ -1,4 +1,3 @@
-541
 .T
 similitude of hypersonic flows over slender bodies
 in non-equilibrium dissociated gases .

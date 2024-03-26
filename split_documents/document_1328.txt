@@ -1,4 +1,3 @@
-1328
 .T
 the production of aerodynamic forces by heat addition
 on external surfaces of aircraft .

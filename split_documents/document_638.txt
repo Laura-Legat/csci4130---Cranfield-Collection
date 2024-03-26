@@ -1,4 +1,3 @@
-638
 .T
 longitudinal aerodynamic characteristics at low subsonic
 speeds of a highly swept wing utilizing nose deflection

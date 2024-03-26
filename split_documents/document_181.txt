@@ -1,4 +1,3 @@
-181
 .T
 some problems on heat conduction in stratiform bodies .
 .A

@@ -1,4 +1,3 @@
-12
 .T
 some structural and aerelastic considerations of high
 speed flight .

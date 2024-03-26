@@ -1,4 +1,3 @@
-739
 .T
 the buckling of thin cylindrical shells under axial
 compression .

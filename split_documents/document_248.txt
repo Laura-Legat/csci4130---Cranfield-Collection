@@ -1,4 +1,3 @@
-248
 .T
 the application of lighthill formula for numerical
 calculation of pressure distributions on bodies of

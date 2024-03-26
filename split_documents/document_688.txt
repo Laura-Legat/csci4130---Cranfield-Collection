@@ -1,4 +1,3 @@
-688
 .T
 tables of aerodynamic coefficients obtained from developed newtonian
 expressions for complete and partial conic and spheric bodies at

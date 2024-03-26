@@ -1,4 +1,3 @@
-167
 .T
 linearized flow of a dissociating gas .
 .A

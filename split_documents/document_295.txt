@@ -1,4 +1,3 @@
-295
 .T
 a note on transitional heat transfer under hypersonic conditions .
 .A

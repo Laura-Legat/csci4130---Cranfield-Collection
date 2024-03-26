@@ -1,4 +1,3 @@
-1172
 .T
 elastic stability of circular cylindrical shells stabilized
 by a soft elastic core .

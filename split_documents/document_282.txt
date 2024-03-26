@@ -1,4 +1,3 @@
-282
 .T
 jet effects on base pressure of conical afterbodies
 at mach 1. 91 and 3. 12 .

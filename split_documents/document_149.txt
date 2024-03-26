@@ -1,4 +1,3 @@
-149
 .T
 expansions at small reynolds number for the flow past
 a sphere and a circular cylinder .

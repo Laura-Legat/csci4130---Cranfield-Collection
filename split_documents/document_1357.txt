@@ -1,4 +1,3 @@
-1357
 .T
 compressive buckling of simply supplorted plates with
 longitudinal stiffeners .

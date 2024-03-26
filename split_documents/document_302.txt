@@ -1,4 +1,3 @@
-302
 .T
 approximations for the thermodynamic and transport properties of high
 temperature air .

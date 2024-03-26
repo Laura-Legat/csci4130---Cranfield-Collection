@@ -1,4 +1,3 @@
-1324
 .T
 the effect on transition of isolated surface excrescences
 in the boundary layer .

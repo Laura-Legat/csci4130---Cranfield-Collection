@@ -1,4 +1,3 @@
-831
 .T
 buckling of shallow shells under external pressure .
 .A

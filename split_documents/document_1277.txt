@@ -1,4 +1,3 @@
-1277
 .T
 a study of vortex cancellation .
 .A

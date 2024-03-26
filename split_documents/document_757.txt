@@ -1,4 +1,3 @@
-757
 .T
 an investigation of the flow about a plane half-wing
 of cropped delta planform and 6( symmetrical section

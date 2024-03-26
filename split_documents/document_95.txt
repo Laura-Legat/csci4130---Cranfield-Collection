@@ -1,4 +1,3 @@
-95
 .T
 temperature distribution and thermal stresses in a
 model of a supersonic wing .

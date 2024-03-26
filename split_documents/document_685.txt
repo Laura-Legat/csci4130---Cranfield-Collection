@@ -1,4 +1,3 @@
-685
 .T
 aerodynamic effects of some configuration variables
 on the aeroelastic characteristics of lifting surfaces

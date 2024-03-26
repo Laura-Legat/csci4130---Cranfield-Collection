@@ -1,4 +1,3 @@
-447
 .T
 motion of thin bodies in a highly rarefied plasma .
 .A

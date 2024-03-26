@@ -1,4 +1,3 @@
-198
 .T
 investigation of a systematic group of naca 1 - series
 cowlings with and without spinners .

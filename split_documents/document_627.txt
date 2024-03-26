@@ -1,4 +1,3 @@
-627
 .T
 flutter analysis of circular panels .
 .A

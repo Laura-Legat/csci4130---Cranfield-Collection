@@ -1,4 +1,3 @@
-814
 .T
 stability derivatives of cones at supersonic speeds .
 .A

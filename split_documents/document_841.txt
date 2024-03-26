@@ -1,4 +1,3 @@
-841
 .T
 on the bending of circular cylindrical shells under
 pure bending .

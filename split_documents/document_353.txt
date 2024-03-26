@@ -1,4 +1,3 @@
-353
 .T
 the effect of helium injection at an axially symmetric stagnation
 point .

@@ -1,4 +1,3 @@
-742
 .T
 post-buckling behaviour of axially compressed circular
 cylinder shells .

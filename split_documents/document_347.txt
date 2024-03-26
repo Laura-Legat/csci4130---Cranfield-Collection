@@ -1,4 +1,3 @@
-347
 .T
 boundary layer measurements in hypersonic flow .
 .A

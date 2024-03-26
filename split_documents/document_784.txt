@@ -1,4 +1,3 @@
-784
 .T
 heat transfer through the laminar boundary layer on
 a circular cylinder in axial incompressible flow .

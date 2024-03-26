@@ -1,4 +1,3 @@
-1101
 .T
 a sensor for obtaining ablation rates .
 .A

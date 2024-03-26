@@ -1,4 +1,3 @@
-467
 .T
 thin airfoil theory based on approximate solution of the transonic flow
 equation .

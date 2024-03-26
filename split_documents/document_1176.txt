@@ -1,4 +1,3 @@
-1176
 .T
 bending tests of ring-stiffened circular cylinders .
 .A

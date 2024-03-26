@@ -1,4 +1,3 @@
-1093
 .T
 induced interference effects on jet and buried-fan
 vtol configurations in transition .

@@ -1,4 +1,3 @@
-748
 .T
 subsonic aerodynamic flutter derivatives for wings and control surfaces,
  /compressible and incompressible flow/ .

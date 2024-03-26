@@ -1,4 +1,3 @@
-41
 .T
 on transition experiments at moderate supersonic speeds .
 .A

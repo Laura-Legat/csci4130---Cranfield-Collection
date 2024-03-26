@@ -1,4 +1,3 @@
-542
 .T
 biot's variational principle in heat conduction .
 .A

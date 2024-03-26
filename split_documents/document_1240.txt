@@ -1,4 +1,3 @@
-1240
 .T
 nonsimilar solutions of the compressible laminar boundary
 layer equations with applications to the upstream-transpiration

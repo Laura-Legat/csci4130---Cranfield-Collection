@@ -1,4 +1,3 @@
-600
 .T
 the calculation of lateral stability derivatives of
 slender wings at incidence including fin effectiveness,

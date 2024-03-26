@@ -1,4 +1,3 @@
-620
 .T
 earth satellite observations and the upper atmosphere .
 .A

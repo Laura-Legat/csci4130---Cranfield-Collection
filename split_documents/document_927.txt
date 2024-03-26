@@ -1,4 +1,3 @@
-927
 .T
 investigation of normal force distributions and wake
 vortex characteristics of bodies of revolution at supersonic

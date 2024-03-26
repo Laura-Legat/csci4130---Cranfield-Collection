@@ -1,4 +1,3 @@
-1363
 .T
 a characteristic type of instability in the large deflections
 of elastic plates .

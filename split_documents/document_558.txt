@@ -1,4 +1,3 @@
-558
 .T
 experimental measurements of turbulent transition motion,
 statistics and gross radial growth behind hypervelocity object.

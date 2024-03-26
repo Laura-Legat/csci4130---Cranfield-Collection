@@ -1,4 +1,3 @@
-75
 .T
 studies of structural failure due to acoustic loading .
 .A

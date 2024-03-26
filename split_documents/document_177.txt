@@ -1,4 +1,3 @@
-177
 .T
 the mixing of free axially-symmetrical jets of mach number 1.40 .
 .A

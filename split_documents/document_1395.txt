@@ -1,4 +1,3 @@
-1395
 .T
 low density stagnation point heat transfer measurements
 in the hypersonic shock tunnel .

@@ -1,4 +1,3 @@
-975
 .T
 one dimensional flows of an imperfect diatomic gas .
 .A

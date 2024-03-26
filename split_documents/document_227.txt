@@ -1,4 +1,3 @@
-227
 .T
 a technique for improving the predictions of linearised
 theory on the drag of straight edge wings .

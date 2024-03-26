@@ -1,4 +1,3 @@
-164
 .T
 an approximate analytical method for studying entry
 into planetary atmospheres .

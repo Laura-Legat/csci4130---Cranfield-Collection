@@ -1,4 +1,3 @@
-1392
 .T
 the solution of small displacement, stability or vibration
 problems concerning a flat rectangular panel when the

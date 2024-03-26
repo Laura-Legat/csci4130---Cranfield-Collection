@@ -1,4 +1,3 @@
-932
 .T
 buckling of circular cones under axial compression .
 .A

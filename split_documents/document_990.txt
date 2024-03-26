@@ -1,4 +1,3 @@
-990
 .T
 a rapid approximate method for determining velocity distribution on
 impeller blades of centrifugal compressors .

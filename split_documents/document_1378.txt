@@ -1,4 +1,3 @@
-1378
 .T
 blunt-cone pressure distributions at hypersonic mach numbers .
 .A

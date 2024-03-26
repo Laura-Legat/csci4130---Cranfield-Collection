@@ -1,4 +1,3 @@
-791
 .T
 measurements at mach numbers up to 2. 8 of the longitudinal
 characteristics of one plane and three cambered slender

@@ -1,4 +1,3 @@
-1350
 .T
 effects of jet billowing on stability of missile-type
 bodies at mach 3. 85 .

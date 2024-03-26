@@ -1,4 +1,3 @@
-1159
 .T
 experimental investigation of the effect of yaw on
 rates of heat transfer to transverse circular

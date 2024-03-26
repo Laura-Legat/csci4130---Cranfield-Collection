@@ -1,4 +1,3 @@
-1126
 .T
 an engineer's conceptual approach to the buckling of
 cylindrical shell (axial loading) .

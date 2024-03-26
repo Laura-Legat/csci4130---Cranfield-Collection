@@ -1,4 +1,3 @@
-1314
 .T
 production of high temperature gases in shock tubes .
 .A

@@ -1,4 +1,3 @@
-713
 .T
 static longitudinal stability characteristics of a blunted glider
 re-entry configuration having 79.5degree sweepback and 45degree dihedral at

@@ -1,4 +1,3 @@
-71
 .T
 laminar boundary layer behind shock advancing into
 stationary fluid .

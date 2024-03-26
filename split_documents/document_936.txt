@@ -1,4 +1,3 @@
-936
 .T
 a donnell-type theory for asymmetrical bending and
 buckling of thin conical shells .

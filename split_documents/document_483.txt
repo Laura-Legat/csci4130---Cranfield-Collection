@@ -1,4 +1,3 @@
-483
 .T
 stagnation point shock detachment distance for flow
 around spheres and cylinder .

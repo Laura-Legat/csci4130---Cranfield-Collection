@@ -1,4 +1,3 @@
-548
 .T
 the contraction of satellite orbits under the influence
 of air drag . pt .iv with scale height dependent on

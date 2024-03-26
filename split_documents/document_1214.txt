@@ -1,4 +1,3 @@
-1214
 .T
 the drag of elongated bodies over a wide reynolds number
 range .

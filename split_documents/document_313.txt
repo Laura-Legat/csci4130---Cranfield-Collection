@@ -1,4 +1,3 @@
-313
 .T
 on alternative forms for the basic equations of transonic
 flow theory .

@@ -1,4 +1,3 @@
-340
 .T
 analysis of effects of diffusion of a foreign gas into
 the laminar boundary layer of a supersonic flow of

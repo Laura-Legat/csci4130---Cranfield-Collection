@@ -1,4 +1,3 @@
-44
 .T
 tip-bluntness effects on cone pressures at m=6.85 .
 .A

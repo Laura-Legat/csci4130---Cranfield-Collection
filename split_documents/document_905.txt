@@ -1,4 +1,3 @@
-905
 .T
 comparative tests of pitot-static tubes .
 .A

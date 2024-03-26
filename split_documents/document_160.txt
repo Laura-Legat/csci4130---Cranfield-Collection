@@ -1,4 +1,3 @@
-160
 .T
 approximate analytical solutions for hypersonic flow
 past slender power-law bodies .

@@ -1,4 +1,3 @@
-172
 .T
 some aerodynamic considerations of nozzle afterbody
 combination .

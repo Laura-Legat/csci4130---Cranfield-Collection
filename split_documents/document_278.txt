@@ -1,4 +1,3 @@
-278
 .T
 on source and vortex distributions in the linearised
 theory of steady supersonic flow .

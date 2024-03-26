@@ -1,4 +1,3 @@
-680
 .T
 generalized conical flow fields in supersonic wing theory .
 .A

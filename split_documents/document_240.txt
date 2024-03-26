@@ -1,4 +1,3 @@
-240
 .T
 a theoretical analysis of heat transfer in regions of separated flow .
 .A

@@ -1,4 +1,3 @@
-730
 .T
 on the bending of a clamped plate .
 .A

@@ -1,4 +1,3 @@
-883
 .T
 correlated fatigue data for aircraft structural joints .
 .A

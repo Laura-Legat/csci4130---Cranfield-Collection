@@ -1,4 +1,3 @@
-755
 .T
 oscillatory derivative measurements on sting-mounted
 wind tunnel models method of test and results for pitch

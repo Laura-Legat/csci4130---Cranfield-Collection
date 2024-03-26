@@ -1,4 +1,3 @@
-1130
 .T
 handbook of structural stability . pt .vi . strength
 of stiffened curved plates and shells .

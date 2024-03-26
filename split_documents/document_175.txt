@@ -1,4 +1,3 @@
-175
 .T
 experiments with static tubes in a supersonic airstream .
 .A

@@ -1,4 +1,3 @@
-870
 .T
 effect of rheological behaviour on thermal stresses .
 .A

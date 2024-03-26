@@ -1,4 +1,3 @@
-1055
 .T
 non-linear bending and buckling of circular plates .
 .A

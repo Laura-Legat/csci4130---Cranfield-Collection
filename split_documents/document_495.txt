@@ -1,4 +1,3 @@
-495
 .T
 on similar solutions for strong blast waves and their
 application to steady hypersonic flow .

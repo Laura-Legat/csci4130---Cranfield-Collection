@@ -1,4 +1,3 @@
-1289
 .T
 numerical technique to lifting surface theory for calculation
 of unsteady aerodynamic forces due to continuous sinusoidal

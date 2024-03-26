@@ -1,4 +1,3 @@
-343
 .T
 transpiration cooling experiments in a turbulent boundary
 layer at m=3 .

@@ -1,4 +1,3 @@
-1331
 .T
 calculated responses of a large sweptwing airplane
 to continuous turbulence with flight-test comparisons .

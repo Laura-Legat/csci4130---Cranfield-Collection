@@ -1,4 +1,3 @@
-78
 .T
 an analytical treatment of aircraft propeller precession
 instability .

@@ -1,4 +1,3 @@
-646
 .T
 thermal diffusion effects on energy transfer in a turbulent
 boundary layer with helium injection .

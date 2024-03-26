@@ -1,4 +1,3 @@
-269
 .T
 on a laminar free-convection flow and heat transfer
 of electrically conducting fluid on a vertical flat

@@ -1,4 +1,3 @@
-1204
 .T
 experimental effect of bluntness and gas rarefaction
 on drag coefficients and stagnation heat transfer on

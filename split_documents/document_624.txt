@@ -1,4 +1,3 @@
-624
 .T
 cruise performance of channel-flow ground effect machines .
 .A

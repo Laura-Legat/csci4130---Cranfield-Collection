@@ -1,4 +1,3 @@
-1044
 .T
 on the theory of thin elastic shells .
 .A

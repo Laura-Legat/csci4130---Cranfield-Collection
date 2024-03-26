@@ -1,4 +1,3 @@
-1217
 .T
 application of inequality constraints to variational
 problems of lifting re-entry .

@@ -1,4 +1,3 @@
-145
 .T
 skin friction in the laminar boundary layer in compressible
 flow .

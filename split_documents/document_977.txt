@@ -1,4 +1,3 @@
-977
 .T
 concerning some solutions of the boundary layer equations
 in hydrodynamics .

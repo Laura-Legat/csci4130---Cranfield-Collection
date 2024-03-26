@@ -1,4 +1,3 @@
-1376
 .T
 some applications in physics of the p-function .
 .A

@@ -1,4 +1,3 @@
-902
 .T
 some current and proposed investigations into the flow
 for slender delta and other wings in unsteady motion .

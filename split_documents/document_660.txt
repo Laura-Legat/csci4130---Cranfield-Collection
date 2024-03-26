@@ -1,4 +1,3 @@
-660
 .T
 the fundamental solution for small steady three dimensional
 disturbances to a two dimensional parallel shear flow .

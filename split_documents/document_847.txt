@@ -1,4 +1,3 @@
-847
 .T
 experimental study of the vibrations of a circular
 cylindrical shell .

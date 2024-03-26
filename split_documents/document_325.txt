@@ -1,4 +1,3 @@
-325
 .T
 heat transfer to constant property laminar boundary
 layer flows with power function free stream velocity

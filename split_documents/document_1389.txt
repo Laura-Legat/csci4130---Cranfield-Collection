@@ -1,4 +1,3 @@
-1389
 .T
 numerical construction of detached shock waves .
 .A

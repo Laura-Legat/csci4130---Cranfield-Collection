@@ -1,4 +1,3 @@
-1390
 .T
 on the numerical calculation of detached bow shock
 waves in hypersonic flow .

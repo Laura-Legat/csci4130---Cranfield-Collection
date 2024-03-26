@@ -1,4 +1,3 @@
-1199
 .T
 theoretical investigations of a supersonic laminar
 boundary layer with foreign-gas injection .

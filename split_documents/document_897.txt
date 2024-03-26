@@ -1,4 +1,3 @@
-897
 .T
 some results on buckling and postbuckling of cylindrical
 shells .

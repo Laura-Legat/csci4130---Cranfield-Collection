@@ -1,4 +1,3 @@
-1192
 .T
 an integral method for calculation of supersonic laminar
 boundary layer with heat transfer on yawed cone .

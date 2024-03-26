@@ -1,4 +1,3 @@
-199
 .T
 measurement of two dimensional derivatives on a wing-aileron-tab
 system .

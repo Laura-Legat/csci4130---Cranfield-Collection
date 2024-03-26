@@ -1,4 +1,3 @@
-596
 .T
 the properties of crossed flexure pivots, and the influence of the
 point at which the strips cross .

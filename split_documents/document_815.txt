@@ -1,4 +1,3 @@
-815
 .T
 investigation of several blunt bodies to determine
 trans- onic aerodynamic characteristics including effects

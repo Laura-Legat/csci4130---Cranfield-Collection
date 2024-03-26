@@ -1,4 +1,3 @@
-1230
 .T
 hypersonic nozzle expansion of air with atom recombination
 present .

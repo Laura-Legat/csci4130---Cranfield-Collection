@@ -1,4 +1,3 @@
-1259
 .T
 second-order theory for unsteady supersonic flow past
 slender pointed bodies of revolution .

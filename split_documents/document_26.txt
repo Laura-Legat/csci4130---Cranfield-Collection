@@ -1,4 +1,3 @@
-26
 .T
 inviscid leading-edge effect in hypersonic flow .
 .A

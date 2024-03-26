@@ -1,4 +1,3 @@
-524
 .T
 stagnation point heat transfer in partially ionized
 air .

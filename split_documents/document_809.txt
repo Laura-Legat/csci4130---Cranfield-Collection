@@ -1,4 +1,3 @@
-809
 .T
 an investigation of the influence of lift on sonic-boom
 intensity by means of wind tunnel measurements of the

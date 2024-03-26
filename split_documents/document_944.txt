@@ -1,4 +1,3 @@
-944
 .T
 one dimensional heat conduction through the skin of
 a vehicle upon entering a planetary atmosphere at constant

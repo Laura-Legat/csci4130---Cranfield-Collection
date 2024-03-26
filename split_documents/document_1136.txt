@@ -1,4 +1,3 @@
-1136
 .T
 design of thin walled torispherical and toriconical
 pressure - vessel heads .

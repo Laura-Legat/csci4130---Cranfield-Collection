@@ -1,4 +1,3 @@
-1135
 .T
 limit analysis of symmetrically loaded thin shells
 of revolution .

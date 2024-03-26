@@ -1,4 +1,3 @@
-704
 .T
 a systematic kernel function procedure for determining aerodynamic
 forces on oscillating or steady finite wings at subsonic speeds .

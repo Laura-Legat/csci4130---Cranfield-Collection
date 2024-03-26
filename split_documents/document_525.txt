@@ -1,4 +1,3 @@
-525
 .T
 on hypersonic viscous flow over an insulated flat plate
 with surface mass transfer .

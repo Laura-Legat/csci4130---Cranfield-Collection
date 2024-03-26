@@ -1,4 +1,3 @@
-573
 .T
 viscous hypersonic similitude .
 .A

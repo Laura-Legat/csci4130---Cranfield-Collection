@@ -1,4 +1,3 @@
-306
 .T
 second approximation to laminar compressible boundary
 layer on flat plate in slip flow .

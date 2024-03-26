@@ -1,4 +1,3 @@
-1267
 .T
 on supersonic flow past thick airfoils .
 .A

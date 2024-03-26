@@ -1,4 +1,3 @@
-924
 .T
 a method for calculating the lift and centre of pressure
 of wing-body-tail combinations at subsonic, transonic

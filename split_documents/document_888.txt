@@ -1,4 +1,3 @@
-888
 .T
 combinations of temperature and axial compression required
 for buckling of a ring-stiffened cylinder .

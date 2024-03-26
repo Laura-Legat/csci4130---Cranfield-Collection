@@ -1,4 +1,3 @@
-432
 .T
 theoretical damping in roll and rolling moment due
 to differential wing incidence for slender cruciform

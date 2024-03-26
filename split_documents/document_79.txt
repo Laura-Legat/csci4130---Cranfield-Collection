@@ -1,4 +1,3 @@
-79
 .T
 effects of extreme surface cooling on boundary layer
 transition .

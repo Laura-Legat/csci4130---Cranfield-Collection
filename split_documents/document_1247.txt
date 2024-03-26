@@ -1,4 +1,3 @@
-1247
 .T
 the supersonic boom of a projectile related to drag
 and volume .

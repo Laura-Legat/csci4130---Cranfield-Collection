@@ -1,4 +1,3 @@
-1076
 .T
 an approximate method for determining the displacement effects and
 viscous drag of laminar boundary layers in two-dimensional hypersonic

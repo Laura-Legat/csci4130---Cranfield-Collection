@@ -1,4 +1,3 @@
-827
 .T
 a nonlinear theory of bending and buckling of thin
 elastic shallow spherical shells .
