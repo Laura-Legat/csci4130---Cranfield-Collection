@@ -1,12 +1,3 @@
-.T
-a theoretical study of the effect of upstream
-transpiration-cooling on the heat transfer and skin friction characteristics
-of a compressible laminar boundary layer .
-.A
-rubesin,m.w. and inouye,m.
-.B
-naca tn.3969, 1957.
-.W
 a theoretical study of the effect of upstream
 transpiration-cooling on the heat transfer and skin friction characteristics
 of a compressible laminar boundary layer .

@@ -1,11 +1,3 @@
-.T
-on fully developed channel flows,. some solutions and limitations, and
-effects of compressibility, variable properties, and body forces .
-.A
-maslen, s.h.
-.B
-nasa tr r-34, 1959
-.W
 on fully developed channel flows,. some solutions and limitations, and
 effects of compressibility, variable properties, and body forces .
 an examination of the effects of compressibility, variable properties,

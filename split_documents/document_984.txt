@@ -1,11 +1,3 @@
-.T
-method of analysis for compressible flow through mixed-flow centrifugal
-impellers of arbitrary design .
-.A
-hamrick, j.t. et al.
-.B
-naca report 1082, 1952 .
-.W
 method of analysis for compressible flow through mixed-flow centrifugal
 impellers of arbitrary design .
 a method is presented for analysis of the compressible flow between the

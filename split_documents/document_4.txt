@@ -1,11 +1,3 @@
-.T
-approximate solutions of the incompressible laminar
-boundary layer equations for a plate in shear flow .
-.A
-yen,k.t.
-.B
-j. ae. scs. 22, 1955, 728.
-.W
 approximate solutions of the incompressible laminar
 boundary layer equations for a plate in shear flow .
   the two-dimensional steady boundary-layer

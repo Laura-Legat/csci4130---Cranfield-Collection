@@ -1,11 +1,3 @@
-.T
-viscous and inviscid stagnation flow in a dissociated hypervelocity free
- stream .
-.A
-inger, g.r.
-.B
-proc. 1962. heat transfer and fluid mech. inst .
-.W
 viscous and inviscid stagnation flow in a dissociated hypervelocity free
  stream .
 high reynolds number hypersonic stagnation flow over a blunt-nosed body

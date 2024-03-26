@@ -1,11 +1,3 @@
-.T
-on source and vortex distributions in the linearised
-theory of steady supersonic flow .
-.A
-robinson,a.
-.B
-q.j.mech.app.math. 1948.
-.W
 on source and vortex distributions in the linearised
 theory of steady supersonic flow .
   the hyperbolic character of the differential

@@ -1,13 +1,3 @@
-.T
-measurements of aerodynamic forces for various mean
-angles of attack on an airfoil oscillating in pitch
-and on two finite-span wings oscillating in bending
-with emphasis on damping in the stall .
-.A
-rainey,a.g.
-.B
-naca r.1305, 1957.
-.W
 measurements of aerodynamic forces for various mean
 angles of attack on an airfoil oscillating in pitch
 and on two finite-span wings oscillating in bending

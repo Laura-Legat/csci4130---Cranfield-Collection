@@ -1,11 +1,3 @@
-.T
-the characteristics of roughness from insects as observed
-for two-dimensional, incompressible flow past airfoils .
-.A
-coleman,w.s.
-.B
-j. ae. scs. 1959, 264.
-.W
 the characteristics of roughness from insects as observed
 for two-dimensional, incompressible flow past airfoils .
   advances in the practical development of boundary-layer

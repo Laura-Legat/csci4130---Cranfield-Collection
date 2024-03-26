@@ -1,11 +1,3 @@
-.T
-dynamic stability of vehicles traversing ascending
-or descending paths through the atmosphere .
-.A
-tobak and allen.
-.B
-naca tn.4275, 1958.
-.W
 dynamic stability of vehicles traversing ascending
 or descending paths through the atmosphere .
   an analysis is given of the oscillatory motions of vehicles which

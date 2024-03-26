@@ -1,11 +1,3 @@
-.T
-propagation of weak disturbances in a gas subject to
-relaxation effects .
-.A
-moore,f.k. and gibson,w.e.
-.B
-j. ae. scs. 27, 1960.
-.W
 propagation of weak disturbances in a gas subject to
 relaxation effects .
   a generalized wave equation is derived for sound disturbances

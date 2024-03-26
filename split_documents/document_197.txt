@@ -1,12 +1,3 @@
-.T
-pressure distributions on three bodies of revolution
-to determine the effect of reynolds number up to and
-including the transonic speed range .
-.A
-swihart,j.m. and whitcomb,c.f.
-.B
-naca rm l53h04, 1953.
-.W
 pressure distributions on three bodies of revolution
 to determine the effect of reynolds number up to and
 including the transonic speed range .

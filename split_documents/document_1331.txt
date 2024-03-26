@@ -1,11 +1,3 @@
-.T
-calculated responses of a large sweptwing airplane
-to continuous turbulence with flight-test comparisons .
-.A
-bennett,f.v. and pratt,k.g.
-.B
-nasa tr r.69, 1960.
-.W
 calculated responses of a large sweptwing airplane
 to continuous turbulence with flight-test comparisons .
   calculated responses of symmetrical

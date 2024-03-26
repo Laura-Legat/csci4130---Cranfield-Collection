@@ -1,11 +1,3 @@
-.T
-the hall effect in the viscous flow of ionized gas
-between parallel plates under transverse magnetic field .
-.A
-sato,h.
-.B
-j.phys.soc. japan, 16, 1961, 1427.
-.W
 the hall effect in the viscous flow of ionized gas
 between parallel plates under transverse magnetic field .
   the electrical conductivity of an ionized

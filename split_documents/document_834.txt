@@ -1,11 +1,3 @@
-.T
-limit design for economical missile structures .
-.A
-l. a. riedinger
-.B
-assistant manager-rand d structures dept., missile systems div.,
-lockheed aircraft corp.
-.W
 limit design for economical missile structures .
 a special safety factor alone won't do the trick in the design of
 lightweight, high temperature missile structures .  if you really want

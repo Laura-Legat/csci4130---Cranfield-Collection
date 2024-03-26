@@ -1,12 +1,3 @@
-.T
-an investigation of the pressure distribution on conical bodies in
-hypersonic flows .
-.A
-victor zakkay
-.B
-aerodynamics laboratory, polytechnic institute of brooklyn, freeport,
-n.y.
-.W
 an investigation of the pressure distribution on conical bodies in
 hypersonic flows .
 a large amount of work on conical flow fields without axial symmetry

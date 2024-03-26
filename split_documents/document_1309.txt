@@ -1,11 +1,3 @@
-.T
-hypersonic flows past a yawed circular cone and other
-pointed bodies .
-.A
-cheng,h.k.
-.B
-j. fluid mech. 12, 1962, 169.
-.W
 hypersonic flows past a yawed circular cone and other
 pointed bodies .
 a detailed treatment of inviscid hypersonic

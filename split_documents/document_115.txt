@@ -1,10 +1,3 @@
-.T
-on turbulent lubrication .
-.A
-constantinescu,v.n.
-.B
-proc.inst.mech.e. 173, 1959, 881.
-.W
 on turbulent lubrication .
 the paper concerns the hydrodynamic turbulent
 motion in the lubricant layer .  proceeding

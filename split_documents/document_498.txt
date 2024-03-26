@@ -1,11 +1,3 @@
-.T
-calculation of potential flow about bodies of revolution
-having axes perpendicular to the free-stream direction .
-.A
-hess,j.l.
-.B
-j. ae. scs. 29, 1962.
-.W
 calculation of potential flow about bodies of revolution
 having axes perpendicular to the free-stream direction .
   a general method is described for calculating, with the aid of

@@ -1,11 +1,3 @@
-.T
-ground measurements of airplane shock wave noise at
-mach numbers to 2, and at altitudes of 60,000 feet .
-.A
-lina,l.j. and maglieri,d.j.
-.B
-nasa tn.d235, 1960.
-.W
 ground measurements of airplane shock wave noise at
 mach numbers to 2, and at altitudes of 60,000 feet .
   the intensity of shock-wave noise at the ground resulting from

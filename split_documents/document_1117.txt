@@ -1,11 +1,3 @@
-.T
-stability of orthotropic cylindrical shells under combined
-loading .
-.A
-hess,t.e.
-.B
-ars j. 31, 1961.
-.W
 stability of orthotropic cylindrical shells under combined
 loading .
   the increasing use of fiber and whisker

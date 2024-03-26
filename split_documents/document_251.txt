@@ -1,11 +1,3 @@
-.T
-a collection of longitudinal stability derivatives
-of wings at supersonic speeds .
-.A
-naysmith,a.
-.B
-rae tn.aero.2423, 1956.
-.W
 a collection of longitudinal stability derivatives
 of wings at supersonic speeds .
   a collection has been made of

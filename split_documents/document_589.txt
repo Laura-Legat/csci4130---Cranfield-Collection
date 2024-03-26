@@ -1,8 +1,3 @@
-.T
-some stall and surge phenomena in axial flow compressors .
-.A
-.B
-.W
 some stall and surge phenomena in axial flow compressors .
 observations of rotating stall have shown that a wide variety
 of stall patterns is possible .

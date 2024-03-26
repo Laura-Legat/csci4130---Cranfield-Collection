@@ -1,11 +1,3 @@
-.T
-on the role of initial imperfections in plastic buckling
-of cylinders under axial compression .
-.A
-gerard,g.
-.B
-j. ae. scs. 29, 1962.
-.W
 on the role of initial imperfections in plastic buckling
 of cylinders under axial compression .
 in a recent paper lee treated the complex problem of the

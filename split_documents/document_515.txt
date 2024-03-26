@@ -1,11 +1,3 @@
-.T
-self sustained oscillations of a system with non-linear
-damping of a particular type .
-.A
-neumark,s.
-.B
-rae tn.aero.2839, 1962.
-.W
 self sustained oscillations of a system with non-linear
 damping of a particular type .
   the paper deals with self-sustained

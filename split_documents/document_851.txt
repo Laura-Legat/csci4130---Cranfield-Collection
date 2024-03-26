@@ -1,12 +1,3 @@
-.T
-energy expressions and differential equations for stress
-and displacement analysis of arbitrary cylindrical
-shells .
-.A
-kempner,j.
-.B
-j. ship res. 1958, 8.
-.W
 energy expressions and differential equations for stress
 and displacement analysis of arbitrary cylindrical
 shells .

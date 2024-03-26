@@ -1,11 +1,3 @@
-.T
-buckling of core-stabilized cylinders under axisymmetric external
-loads .
-.A
-don o. brush and bo o. almroth
-.B
-lockheed missiles and space company
-.W
 buckling of core-stabilized cylinders under axisymmetric external
 loads .
 an equation is derived for the elastic stability of a circular

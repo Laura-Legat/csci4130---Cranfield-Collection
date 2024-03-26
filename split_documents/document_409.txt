@@ -1,11 +1,3 @@
-.T
-on the base pressure resulting from the interaction of a supersonic
-external stream with a sonic or subsonic jet .
-.A
-chow, w. l.
-.B
-j. aero. sc. march, 1959 . p. 176-180 .
-.W
 on the base pressure resulting from the interaction of a supersonic
 external stream with a sonic or subsonic jet .
 it is shown that the two-dimensional base pressure problems relating to

@@ -1,11 +1,3 @@
-.T
-a general theory of three dimensional flow in subsonic and supersonic
-turbo-machines of axial-radial-and mixed-flow types .
-.A
-wu, c.
-.B
-naca tn 2604, 1952 .
-.W
 a general theory of three dimensional flow in subsonic and supersonic
 turbo-machines of axial-radial-and mixed-flow types .
 a general theory of steady three-dimensional flow of a nonviscous fluid

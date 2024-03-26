@@ -1,11 +1,3 @@
-.T
-determination of lift or drag programs to minimize
-re-entry heating .
-.A
-bryson,a.e.
-.B
-j. ae. scs. 1962, 420.
-.W
 determination of lift or drag programs to minimize
 re-entry heating .
   a study of single-pass re-entry from escape speed and from

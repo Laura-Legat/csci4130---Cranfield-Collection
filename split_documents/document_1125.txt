@@ -1,11 +1,3 @@
-.T
-collapse by instability of thin cylindrical shells
-under external pressure .
-.A
-windenburg,d.f. and trilling,c.
-.B
-asme trans. 56, 1934, 819.
-.W
 collapse by instability of thin cylindrical shells
 under external pressure .
   this paper discusses the collapse by instability of

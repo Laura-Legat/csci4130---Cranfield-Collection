@@ -1,11 +1,3 @@
-.T
-similar solutions for the compressible boundary layer
-on a yawed cylinder with transpiration cooling .
-.A
-beckwith,i.e.
-.B
-naca tn.4345, 1958.
-.W
 similar solutions for the compressible boundary layer
 on a yawed cylinder with transpiration cooling .
   heat-transfer and skin-friction

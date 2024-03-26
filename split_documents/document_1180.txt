@@ -1,11 +1,3 @@
-.T
-approximate analysis of the slot injection of a gas
-in laminar flow .
-.A
-libby,p.a. and schetz,j.a.
-.B
-aiaa jnl. 1963, 1056.
-.W
 approximate analysis of the slot injection of a gas
 in laminar flow .
   the laminar diffusion and combustion of a gas

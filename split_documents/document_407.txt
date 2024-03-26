@@ -1,11 +1,3 @@
-.T
-stationary convection flow of an electrically conducting
-liquid between parallel plates in a magnetic field .
-.A
-gershuni,g.z. and shukhovitskii,e.m.
-.B
-soviet physics,34, 1958.
-.W
 stationary convection flow of an electrically conducting
 liquid between parallel plates in a magnetic field .
   a study is made of the stationary convection

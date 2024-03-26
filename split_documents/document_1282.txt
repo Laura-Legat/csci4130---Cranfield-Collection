@@ -1,11 +1,3 @@
-.T
-compressible flat-plate boundary-layer flow with an
-applied magnetic field .
-.A
-bush,w.b.
-.B
-j. ae. scs. 1960, 49.
-.W
 compressible flat-plate boundary-layer flow with an
 applied magnetic field .
   the laminar boundary-layer equations are formulated and

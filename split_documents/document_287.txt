@@ -1,11 +1,3 @@
-.T
-some theoretical low-speed loading characteristics
-of swept wings in roll and sideslip .
-.A
-bird,j.d.
-.B
-naca r969, 1950.
-.W
 some theoretical low-speed loading characteristics
 of swept wings in roll and sideslip .
   the weissinger method for determining additional span

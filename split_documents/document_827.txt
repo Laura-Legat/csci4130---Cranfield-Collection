@@ -1,11 +1,3 @@
-.T
-a nonlinear theory of bending and buckling of thin
-elastic shallow spherical shells .
-.A
-kaplan,a. and fung,y.c.
-.B
-naca tn.3212, 1954.
-.W
 a nonlinear theory of bending and buckling of thin
 elastic shallow spherical shells .
   a shallow spherical dome subjected to lateral pressure is a structure

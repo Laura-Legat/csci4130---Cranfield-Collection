@@ -1,11 +1,3 @@
-.T
-viscous compressible and incompressible flow in slender
-channels .
-.A
-williams,j.c.
-.B
-a.i.a.a. j. 1963, 186.
-.W
 viscous compressible and incompressible flow in slender
 channels .
   an analytical study is made of viscous flow in slender

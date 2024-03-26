@@ -1,12 +1,3 @@
-.T
-an approximate method for determining the displacement effects and
-viscous drag of laminar boundary layers in two-dimensional hypersonic
-flow .
-.A
-bertram, m.h.
-.B
-naca tn 2773, 1952 .
-.W
 an approximate method for determining the displacement effects and
 viscous drag of laminar boundary layers in two-dimensional hypersonic
 flow .

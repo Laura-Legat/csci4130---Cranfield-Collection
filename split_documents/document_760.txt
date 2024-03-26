@@ -1,11 +1,3 @@
-.T
-inelastic buckling of initially imperfect cylindrical
-shells subject to axial compression .
-.A
-lee,l.h.n.
-.B
-j. ae. scs. 29, 1962, 87.
-.W
 inelastic buckling of initially imperfect cylindrical
 shells subject to axial compression .
   an analytical and experimental study is made for inelastic

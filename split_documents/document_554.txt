@@ -1,10 +1,3 @@
-.T
-generalized heat transfer formulas and graphs .
-.A
-detra,r.w. and kidalgo,h.
-.B
-ars j. 1961.
-.W
 generalized heat transfer formulas and graphs .
   utilizing the research results of previously
 reported investigations of the laminar, turbulent and

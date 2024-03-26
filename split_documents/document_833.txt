@@ -1,11 +1,3 @@
-.T
-a simple method of matric structural analysis, part
-iv, non-linear problems .
-.A
-klein,b.
-.B
-j. ae. scs. 26, 1959.
-.W
 a simple method of matric structural analysis, part
 iv, non-linear problems .
   the method presented in the previous parts is employed to

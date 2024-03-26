@@ -1,11 +1,3 @@
-.T
-panel flutter tests on full scale x-15 lower vertical
-stabilizer at mach number of 3. 0.
-.A
-bohon,h.l.
-.B
-nasa tn.d1385, 1962.
-.W
 panel flutter tests on full scale x-15 lower vertical
 stabilizer at mach number of 3. 0.
   panel flutter tests were conducted

@@ -1,12 +1,3 @@
-.T
-method for calculation of compressible laminar boundary
-layer characteristics in axial pressure gradient with
-zero heat transfer .
-.A
-morduchow,m. and clarke,j.h.
-.B
-naca tn.2784, 1952.
-.W
 method for calculation of compressible laminar boundary
 layer characteristics in axial pressure gradient with
 zero heat transfer .

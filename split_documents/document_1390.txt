@@ -1,11 +1,3 @@
-.T
-on the numerical calculation of detached bow shock
-waves in hypersonic flow .
-.A
-garabedian,p.r. and liebersten,h.m.
-.B
-j. ae. scs. 25, 1958, 109.
-.W
 on the numerical calculation of detached bow shock
 waves in hypersonic flow .
   a method is described for calculating examples of hypersonic

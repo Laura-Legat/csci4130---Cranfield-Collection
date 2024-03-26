@@ -1,11 +1,3 @@
-.T
-an approximate treatment of unsteady heat conduction
-in semi-infinite solids with variable thermal properties .
-.A
-yang,k.t. and szewczyk,a.
-.B
-j. heat trans. asme trans. 81, 1959, 251.
-.W
 an approximate treatment of unsteady heat conduction
 in semi-infinite solids with variable thermal properties .
   this very short paper presents an approximate procedure for the

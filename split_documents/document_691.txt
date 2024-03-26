@@ -1,11 +1,3 @@
-.T
-calculation procedure for thermodynamic transport, and flow properties
-of the combustion products of a hydrocarbon fuel mixture burned in air
-with results for ethylene-air and methane-air mixtures .
-.A
-.B
-nasa tn d-914, 1962 .
-.W
 calculation procedure for thermodynamic transport, and flow properties
 of the combustion products of a hydrocarbon fuel mixture burned in air
 with results for ethylene-air and methane-air mixtures .

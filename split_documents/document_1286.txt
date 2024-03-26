@@ -1,11 +1,3 @@
-.T
-equilibrium real-gas performance charts for a shypersonic
-shock-tube wind-tunnel employing nitrogen .
-.A
-bernstein,l.
-.B
-arc cp.633, 1961.
-.W
 equilibrium real-gas performance charts for a shypersonic
 shock-tube wind-tunnel employing nitrogen .
   charts are presented covering

@@ -1,11 +1,3 @@
-.T
-effect of roll on dynamic instability of symmetric
-missiles .
-.A
-murphy,c.h.
-.B
-j. ae. scs. 21, 1954.
-.W
 effect of roll on dynamic instability of symmetric
 missiles .
   this note attempts to extend the discussion by stating a

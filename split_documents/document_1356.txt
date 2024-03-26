@@ -1,11 +1,3 @@
-.T
-secondary flow fields embedded in hypersonic shock
-layers .
-.A
-seiff,a.
-.B
-nasa tn.d1304, 1962.
-.W
 secondary flow fields embedded in hypersonic shock
 layers .
   when a ramp or other compression

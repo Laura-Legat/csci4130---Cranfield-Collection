@@ -1,11 +1,3 @@
-.T
-an improvement on donnell's approximation for thin-walled
-circular cylinders .
-.A
-morley,l.s.d.
-.B
-q. j. mech. app. math. 12, 1959.
-.W
 an improvement on donnell's approximation for thin-walled
 circular cylinders .
   donnell's equation for thin-walled circular cylinders is replaced by

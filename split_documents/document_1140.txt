@@ -1,11 +1,3 @@
-.T
-shock-standoff distance for spherical bodies at high
-mach numbers .
-.A
-chaudhury,p.r.
-.B
-j. ae. scs. 29, 1962, 745.
-.W
 shock-standoff distance for spherical bodies at high
 mach numbers .
   usaf-sponsored development of a simple expression for

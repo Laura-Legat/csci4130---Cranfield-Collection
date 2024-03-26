@@ -1,11 +1,3 @@
-.T
-boundary layer transition and heat transfer in shock
-tubes .
-.A
-hartunian,r.a., russo,a.l. and marrone,p.v.
-.B
-j. ae. scs. 1960, 587.
-.W
 boundary layer transition and heat transfer in shock
 tubes .
   an experimental study is made of the wall boundary layer in a
