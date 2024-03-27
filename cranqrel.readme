@@ -1,3 +1,9 @@
+Laura additions:
+Cols: queryID, docID, relevancy score
+      e.g.: query 1, should give back doc 184, of relevance 2
+            query 1, should give back doc 204, of relevance 1
+            ...
+
 
 
 Here you will find two files containing relevance judgements.
