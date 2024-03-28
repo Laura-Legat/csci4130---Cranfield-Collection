@@ -1,13 +1,3 @@
-.T
-wind tunnel measurements of aerodynamic damping derivatives
-of a launch vehicle vibrating in free-free bending
-modes at mach numbers from 0. 70 to 2. 87 and comparisons
-with theory .
-.A
-hanson,p.w. and doggett,r.v.
-.B
-nasa tn.d1391, 1962.
-.W
 wind tunnel measurements of aerodynamic damping derivatives
 of a launch vehicle vibrating in free-free bending
 modes at mach numbers from 0. 70 to 2. 87 and comparisons

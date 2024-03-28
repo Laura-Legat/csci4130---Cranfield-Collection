@@ -1,11 +1,3 @@
-.T
-iterative solutions for the non-linear bending of circular
-plates .
-.A
-keller,h.b. and reiss,e.l.
-.B
-comm. on pure and app. math. 11, 1958, 273.
-.W
 iterative solutions for the non-linear bending of circular
 plates .
   the authors study non-linear von karman equations

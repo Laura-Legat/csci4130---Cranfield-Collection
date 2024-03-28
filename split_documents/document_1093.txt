@@ -1,11 +1,3 @@
-.T
-induced interference effects on jet and buried-fan
-vtol configurations in transition .
-.A
-spreemann,k.+.
-.B
-nasa tn.d731, 1961.
-.W
 induced interference effects on jet and buried-fan
 vtol configurations in transition .
   recent investigations of some jet and buried-fan configurations

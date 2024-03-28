@@ -1,8 +1,3 @@
-.T
-on transverse vibrations of thin, shallow elastic shells .
-.A
-.B
-.W
 on transverse vibrations of thin, shallow elastic shells .
 it is shown that a perfectly straight bar, subjected
 to a state of uniform shear stress, will

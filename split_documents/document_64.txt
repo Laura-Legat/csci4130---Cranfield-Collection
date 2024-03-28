@@ -1,11 +1,3 @@
-.T
-unsteady oblique interaction of a shock wave with plane
-disturbances .
-.A
-moore,f.k.
-.B
-naca tn.2879, 1953.
-.W
 unsteady oblique interaction of a shock wave with plane
 disturbances .
   analysis is made of the flow field produced by oblique impingement

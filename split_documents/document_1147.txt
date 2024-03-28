@@ -1,11 +1,3 @@
-.T
-heat transfer to bodies traveling at high speed in the upper
-atmosphere .
-.A
-jackson r. stalder and david jukoff
-.B
-report 944
-.W
 heat transfer to bodies traveling at high speed in the upper
 atmosphere .
 a general method has been developed, using the methods of kinetic

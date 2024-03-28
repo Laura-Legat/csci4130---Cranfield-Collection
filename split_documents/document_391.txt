@@ -1,11 +1,3 @@
-.T
-flutter of rectangular simply supported panels at high
-supersonic speeds .
-.A
-hedgepeth,j.m.
-.B
-j. ae. scs. 24, 1957.
-.W
 flutter of rectangular simply supported panels at high
 supersonic speeds .
   the problem of panel flutter of rectangular simply supported

@@ -1,12 +1,3 @@
-.T
-steady flow of conducting fluids in channels under
-transverse magnetic fields, with consideration of hall
-effect .
-.A
-tani,i.
-.B
-j. ae. scs.1962, 297.
-.W
 steady flow of conducting fluids in channels under
 transverse magnetic fields, with consideration of hall
 effect .

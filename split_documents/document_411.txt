@@ -1,11 +1,3 @@
-.T
-data on shape and location of detached shock waves
-in cones and sphere .
-.A
-herberle,j.w., wood,g.p. and gooderum,p.b.
-.B
-naca tn.2000, 1950.
-.W
 data on shape and location of detached shock waves
 in cones and sphere .
   accurate experimental data are given on the shape and the location

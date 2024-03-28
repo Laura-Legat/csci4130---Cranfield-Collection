@@ -1,12 +1,3 @@
-.T
-qualitative measurements of the effective heats of
-ablation of several materials in supersonic air jets
-at stagnation temperature up to 11,000 f.
-.A
-rashis,b., witte,w.g. and hopko,r.n.
-.B
-naca rm. l58e22, 1958.
-.W
 qualitative measurements of the effective heats of
 ablation of several materials in supersonic air jets
 at stagnation temperature up to 11,000 f.

@@ -1,11 +1,3 @@
-.T
-asymptotic solution of the two dimensional oscillating
-aerofoil problem for high subsonic mach numbers .
-.A
-eckhaus,w.
-.B
-proc. 9th int. con. app.mech. 1956.
-.W
 asymptotic solution of the two dimensional oscillating
 aerofoil problem for high subsonic mach numbers .
   a new method has been given, for obtaining asymptotic solutions of a

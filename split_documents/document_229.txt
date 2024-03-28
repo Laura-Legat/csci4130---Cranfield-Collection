@@ -1,12 +1,3 @@
-.T
-interference between the wings and tail surfaces of
-a combination of slender body, cruciform wings and
-cruciform tail set at both incidence and yaw .
-.A
-owen,p.r. and anderson,r.g.
-.B
-rae r.aero.2471, 1952.
-.W
 interference between the wings and tail surfaces of
 a combination of slender body, cruciform wings and
 cruciform tail set at both incidence and yaw .

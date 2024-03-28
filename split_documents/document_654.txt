@@ -1,11 +1,3 @@
-.T
-on the propagation and structure of the blast wave .
- part 1.
-.A
-sakuri,a.
-.B
-j. phys. soc. japan, 9, 1954.
-.W
 on the propagation and structure of the blast wave .
  part 1.
   as a continuation of part 1 (j. phys. soc. japan 8 (1953) 662), the

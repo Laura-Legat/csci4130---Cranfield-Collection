@@ -1,11 +1,3 @@
-.T
-response of plates to a decaying and convecting randon
-pressure field .
-.A
-dyer,i.
-.B
-j.acous.s.am. 31, 1959, 922.
-.W
 response of plates to a decaying and convecting randon
 pressure field .
   following the methods of lyon, an analysis of the

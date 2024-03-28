@@ -1,11 +1,3 @@
-.T
-a simple model study of transient temperature and thermal
-stress distribution due to aerodynamic heating .
-.A
-isakson,g.
-.B
-j. ae. scs. 24, 1957, 611.
-.W
 a simple model study of transient temperature and thermal
 stress distribution due to aerodynamic heating .
   the present work is concerned with the determination of

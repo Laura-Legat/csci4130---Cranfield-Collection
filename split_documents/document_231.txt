@@ -1,11 +1,3 @@
-.T
-practical calculation of second-order supersonic flow
-past non-lifting bodies of revolution .
-.A
-van dyke,m.d.
-.B
-naca tn.2744.
-.W
 practical calculation of second-order supersonic flow
 past non-lifting bodies of revolution .
   calculation of second-order supersonic flow past bodies of

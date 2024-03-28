@@ -1,11 +1,3 @@
-.T
-calculated velocity distributions and force derivatives
-for a series of high-speed aerofoils .
-.A
-sinott,c.s.
-.B
-arc r + m 3045.
-.W
 calculated velocity distributions and force derivatives
 for a series of high-speed aerofoils .
   the polygon method of woods is used to

@@ -1,11 +1,3 @@
-.T
-steady magnetohydrodynamic flow past a non-conducting
-wedge .
-.A
-chu,c.k. and lynn,y.m.
-.B
-aiaa jnl.
-.W
 steady magnetohydrodynamic flow past a non-conducting
 wedge .
   this paper presents a study of the steady

@@ -1,12 +1,3 @@
-.T
-the buckling of a square panel under shear, when one
-pair of opposite edges is clamped and the other pair
-is simply supported .
-.A
-leggett,d.m.a.
-.B
-arc r + m.1991, 1941.
-.W
 the buckling of a square panel under shear, when one
 pair of opposite edges is clamped and the other pair
 is simply supported .

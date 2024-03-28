@@ -1,11 +1,3 @@
-.T
-laminar boundary layers at the interface of co-current
-parallel streams .
-.A
-potter,o.e.
-.B
-q. j. mech. app. math. 10, 1957, 302.
-.W
 laminar boundary layers at the interface of co-current
 parallel streams .
   the approximate solution of keulegan(1) for the steady flow of a

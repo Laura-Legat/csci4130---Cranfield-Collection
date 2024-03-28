@@ -1,11 +1,3 @@
-.T
-boundary layer behind shock or thin expansion wave
-moving into stationary fluid .
-.A
-mirels,h.
-.B
-naca tn.3712, 1956.
-.W
 boundary layer behind shock or thin expansion wave
 moving into stationary fluid .
   the boundary layer behind a shock or thin expansion wave advancing

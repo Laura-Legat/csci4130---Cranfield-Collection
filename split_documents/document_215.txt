@@ -1,11 +1,3 @@
-.T
-the test performance of highly loaded turbine stages
-designed for high pressure ratio .
-.A
-johnston,i.h. and dransfield,d.c.
-.B
-ngte r235, 1959.
-.W
 the test performance of highly loaded turbine stages
 designed for high pressure ratio .
   a blade design for a highly loaded two-stage

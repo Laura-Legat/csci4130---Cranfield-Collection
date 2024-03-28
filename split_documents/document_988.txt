@@ -1,11 +1,3 @@
-.T
-nonviscous flow through a pump impeller on a blade-to-blade surface of
-revolution .
-.A
-kramer, j.j. et al.
-.B
-nasa tn d-1108, 1962,
-.W
 nonviscous flow through a pump impeller on a blade-to-blade surface of
 revolution .
 the nonviscous incompressible flow through a typical pump impeller is

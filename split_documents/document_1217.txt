@@ -1,11 +1,3 @@
-.T
-application of inequality constraints to variational
-problems of lifting re-entry .
-.A
-levinsky,e.s.
-.B
-j. ae. scs. 1962, 400.
-.W
 application of inequality constraints to variational
 problems of lifting re-entry .
   inequality constraints are introduced into the variational

@@ -1,8 +1,3 @@
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
 free-flight measurements of the static and dynamic .
   equations based on newtonian impact theory have been derived and a
 computational procedure developed with the aid of several design-type

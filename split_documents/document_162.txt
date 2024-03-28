@@ -1,11 +1,3 @@
-.T
-nearly circular transfer trajectories for descending
-satellites .
-.A
-low,g.m.
-.B
-nasa r-3, 1959.
-.W
 nearly circular transfer trajectories for descending
 satellites .
   simplified expressions describing the transfer

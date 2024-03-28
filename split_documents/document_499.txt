@@ -1,11 +1,3 @@
-.T
-a closed-form solution for the oscillations of a vehicle
-entering a planetary atmosphere .
-.A
-greensite,a.l.
-.B
-j. ae. scs. 29, 1962, 745.
-.W
 a closed-form solution for the oscillations of a vehicle
 entering a planetary atmosphere .
   author considers the equation of the yawing motion of a missile,

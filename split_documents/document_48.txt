@@ -1,11 +1,3 @@
-.T
-supersonic flow at the surface of a circular cone at
-angle of attack .
-.A
-willett,j.e.
-.B
-j. ae. scs. 27, 1960, 907.
-.W
 supersonic flow at the surface of a circular cone at
 angle of attack .
   formulas for the inviscid flow properties on the surface of a

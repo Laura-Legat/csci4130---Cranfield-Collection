@@ -1,11 +1,3 @@
-.T
-methods for estimating lift interference of wing-body
-combinations at supersonic speeds .
-.A
-nielsen,j.n. and kaattari,g.e.
-.B
-naca til.2950.
-.W
 methods for estimating lift interference of wing-body
 combinations at supersonic speeds .
   the modified slender-body method

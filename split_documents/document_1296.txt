@@ -1,11 +1,3 @@
-.T
-non-equilibrium expansions of air with coupled chemical
-reactions .
-.A
-eschenroeder,a.q., boyer,d. and hall,j.g.
-.B
-phys. fluids, 1962.
-.W
 non-equilibrium expansions of air with coupled chemical
 reactions .
   analysis and solutions of the streamtube gas

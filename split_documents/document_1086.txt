@@ -1,11 +1,3 @@
-.T
-a note on the numerical solution of fourth order differential
-equations .
-.A
-woods,l.c.
-.B
-aero. quart. 5, 1954, 176.
-.W
 a note on the numerical solution of fourth order differential
 equations .
   an old numerical method

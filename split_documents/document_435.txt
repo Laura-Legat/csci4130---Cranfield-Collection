@@ -1,12 +1,3 @@
-.T
-application of similar solutions to calculations of
-laminar heat transfer on bodies with yaw and large
-pressure gradients in high speed flow .
-.A
-beckwith,i.e. and cohen,n.b.
-.B
-nada tn.d625, 1961.
-.W
 application of similar solutions to calculations of
 laminar heat transfer on bodies with yaw and large
 pressure gradients in high speed flow .

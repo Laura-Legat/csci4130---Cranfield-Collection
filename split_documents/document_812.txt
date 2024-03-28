@@ -1,11 +1,3 @@
-.T
-investigation of two bluff shapes in axial free flight
-over a mach number range from 0. 35 to 2. 15 .
-.A
-coltrane,l.c.
-.B
-naca rm l58a16, 1958.
-.W
 investigation of two bluff shapes in axial free flight
 over a mach number range from 0. 35 to 2. 15 .
   a fineness-ratio-2.71 right circular cylinder and a fineness-

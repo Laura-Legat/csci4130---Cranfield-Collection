@@ -1,9 +1,3 @@
-.T
-the design of tubes under uniform external pressure on the
-basis of assumed inaccuracies .
-.A
-.B
-.W
 the design of tubes under uniform external pressure on the
 basis of assumed inaccuracies .
 since the failure of tubes under uniform external pressure depends

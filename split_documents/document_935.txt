@@ -1,11 +1,3 @@
-.T
-buckling of thin single- and multi-layer conical and cylindrical
-shells with rotationally symmetric stresses .
-.A
-p. p. radkowski
-.B
-avco manufacturing corporation
-.W
 buckling of thin single- and multi-layer conical and cylindrical
 shells with rotationally symmetric stresses .
 the buckling of simply supported, thin, single- and multi-layer conical

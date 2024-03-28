@@ -1,11 +1,3 @@
-.T
-second order theory for unsteady supersonic flow
-past slender pointed bodies of revolution .
-.A
-revell, j. d.
-.B
-j. ae. scs.1960, 730.
-.W
 second order theory for unsteady supersonic flow
 past slender pointed bodies of revolution .
   the thermodynamic properties (z = pv rt, e rt, h rt, s r,

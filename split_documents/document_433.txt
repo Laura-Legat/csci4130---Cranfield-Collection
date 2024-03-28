@@ -1,12 +1,3 @@
-.T
-application of two dimensional vortex theory to the
-prediction of flow fields behind wings of wing-body
-combinations at subsonic and supersonic speeds .
-.A
-rogers,a.w.
-.B
-naca tn.3227, 1954.
-.W
 application of two dimensional vortex theory to the
 prediction of flow fields behind wings of wing-body
 combinations at subsonic and supersonic speeds .

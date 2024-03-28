@@ -1,11 +1,3 @@
-.T
-a free-flight investigation of ablation of a blunt
-body to a mach number of 13 .1.
-.A
-winters,c.w., witte,w.g., rashis,b. and hopko,h.n.
-.B
-nasa tn.d1500, 1962.
-.W
 a free-flight investigation of ablation of a blunt
 body to a mach number of 13 .1.
   a five-stage rocket-propelled

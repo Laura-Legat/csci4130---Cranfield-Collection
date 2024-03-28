@@ -1,11 +1,3 @@
-.T
-a new series for calculation of steady laminar boundary
-layer flows .
-.A
-gortler,h.
-.B
-j. math. mech. 6, 1957, 1.
-.W
 a new series for calculation of steady laminar boundary
 layer flows .
   a new and general method for solving

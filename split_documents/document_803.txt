@@ -1,11 +1,3 @@
-.T
-the shock pattern of a wing-body combination far from
-the flight path .
-.A
-walkden,f.
-.B
-aero. quart. 9, 1958, 164.
-.W
 the shock pattern of a wing-body combination far from
 the flight path .
   the position and strength of the front shock wave at large

@@ -1,11 +1,3 @@
-.T
-incompressible nonviscous blade-to-blade flow through a pump rotor with
-splitter vanes .
-.A
-kramer, j.j. et al.
-.B
-nasa tn d-1186, 1962 .
-.W
 incompressible nonviscous blade-to-blade flow through a pump rotor with
 splitter vanes .
 the nonviscous flow through a mixed-flow pump impeller having one

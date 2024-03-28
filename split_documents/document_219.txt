@@ -1,11 +1,3 @@
-.T
-on the strength distribution of noise sources along
-a jet .
-.A
-ribner,h.s.
-.B
-utia r51, 1958.
-.W
 on the strength distribution of noise sources along
 a jet .
   the spatial distribution of noise sources along a jet is

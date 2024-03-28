@@ -1,13 +1,3 @@
-.T
-heat transfer and pressure distributions on a hemisphere-cylinder and a
-bluff-afterbody model
-in methane-air combustion products and in air .
-.A
-irving weinstein
-.B
-national aeronautics and space administration .
-technical note d-1503
-.W
 heat transfer and pressure distributions on a hemisphere-cylinder and a
 bluff-afterbody model
 in methane-air combustion products and in air .

@@ -1,12 +1,3 @@
-.T
-a simplified approximate method for the calculation of the pressure
-around conical bodies of arbitrary shape in supersonic and hypersonic
-flow .
-.A
-willi f. jacobs
-.B
-lockheed aircraft corporation, georgia division
-.W
 a simplified approximate method for the calculation of the pressure
 around conical bodies of arbitrary shape in supersonic and hypersonic
 flow .

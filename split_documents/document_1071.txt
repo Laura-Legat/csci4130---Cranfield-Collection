@@ -1,11 +1,3 @@
-.T
-stability of thin torispherical shells under uniform
-internal pressure .
-.A
-mescall,j.
-.B
-nasa tn.d1510, 1962, 671.
-.W
 stability of thin torispherical shells under uniform
 internal pressure .
   the stability of the toroidal portion of a torispherical shell

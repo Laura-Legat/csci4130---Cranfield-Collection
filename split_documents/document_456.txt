@@ -1,11 +1,3 @@
-.T
-a study of flow fields about some typical blunt-nosed
-slender bodies .
-.A
-vaglio-laurin,r. and trella,m.
-.B
-pibal r.623, 1960.
-.W
 a study of flow fields about some typical blunt-nosed
 slender bodies .
   complete inviscid flow fields about three model axisymmetric

@@ -1,11 +1,3 @@
-.T
-some effects of bluntness on boundary layer transition
-and heat transfer at supersonic speeds .
-.A
-moeckel,w.e.
-.B
-naca r.1312, 1957.
-.W
 some effects of bluntness on boundary layer transition
 and heat transfer at supersonic speeds .
   large downstream movements of transition observed when the

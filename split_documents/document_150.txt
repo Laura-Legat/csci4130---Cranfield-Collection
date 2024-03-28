@@ -1,10 +1,3 @@
-.T
-integration of the boundary layer equations .
-.A
-meksyn,d.
-.B
-proc.roy.s.a. 237 1956, 543.
-.W
 integration of the boundary layer equations .
 the equations of the boundary layer
 are integrated by an expression of the form

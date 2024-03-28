@@ -1,11 +1,3 @@
-.T
-approximate analysis of atmospheric entry corridors
-and angles .
-.A
-luidens,r.w.
-.B
-nasa tn.d590, 1961.
-.W
 approximate analysis of atmospheric entry corridors
 and angles .
   a simple closed-form solution

@@ -1,11 +1,3 @@
-.T
-a compressor routine test code .
-.A
-n. a. dimmock
-.B
-communicated by the deputy controller aircraft (research and
-development), ministry of aviation
-.W
 a compressor routine test code .
 the routine testing of aircraft-type compressors.dash in the main,
 axial-flow, multi-stage compressors.dash requires a compromise between

@@ -1,12 +1,3 @@
-.T
-blunt-cone pressure distributions at hypersonic mach numbers .
-.A
-andrew f. burke and james t. curtis
-.B
-head, research section, and research aerodynamicist, respectively,
-applied hypersonic research dept., cornell aeronautical laboratory,
-inc., buffalo, n.y.
-.W
 blunt-cone pressure distributions at hypersonic mach numbers .
 the static pressure distributions on the surface of a
 blunted 7.5 degree-half-angle cone have recently been experimentally

@@ -1,10 +1,3 @@
-.T
-biot's variational principle in heat conduction .
-.A
-lardner,t.j.
-.B
-a.i.a.a. j. 1963, 196.
-.W
 biot's variational principle in heat conduction .
   biot's variational principle is applied to a number of different
 one-dimensional heat conduction problems .  these problems

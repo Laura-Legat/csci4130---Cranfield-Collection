@@ -1,11 +1,3 @@
-.T
-theoretical and experimental investigation of second-order supersonic
-wing-body interference .
-.A
-landahl, m., drougge, g. and beane, b.j.
-.B
-j. aero. sc. v. 27, september 1960. pp 694-702 .
-.W
 theoretical and experimental investigation of second-order supersonic
 wing-body interference .
 approximate second-order solutions for the supersonic flow around

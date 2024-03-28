@@ -1,11 +1,3 @@
-.T
-an automatic method for finding the greatest or least
-value function .
-.A
-rosenbrock,h.h.
-.B
-computer jnl. 1960.
-.W
 an automatic method for finding the greatest or least
 value function .
 the greatest or least value of a function of several
