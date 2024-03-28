@@ -1,3 +1,11 @@
+.T
+comparison of theoretical and experimental creep buckling
+times of initially straight, centrally loaded columns .
+.A
+jahsman,w.e. and field,f.a.
+.B
+j. ae. scs. 29, 1962, 431.
+.W
 comparison of theoretical and experimental creep buckling
 times of initially straight, centrally loaded columns .
   the creep-buckling times of initially straight, centrally loaded

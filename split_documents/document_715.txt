@@ -1,3 +1,13 @@
+.T
+motion of a ballistic missile angularly misaligned
+with the flight path upon entering the atmosphere and
+its effect upon aerodynamic heating, aerodynamic loads
+and miss distance .
+.A
+allen,h.j.
+.B
+naca tn.4048, 1957.
+.W
 motion of a ballistic missile angularly misaligned
 with the flight path upon entering the atmosphere and
 its effect upon aerodynamic heating, aerodynamic loads

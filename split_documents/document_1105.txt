@@ -1,3 +1,11 @@
+.T
+numerical solutions for supersonic flow of an ideal
+gas around blunt two-dimensional bodies .
+.A
+fuller,f.b.
+.B
+nasa tn.d791, 1961.
+.W
 numerical solutions for supersonic flow of an ideal
 gas around blunt two-dimensional bodies .
   the method described is an inverse one,. the shock shape is chosen

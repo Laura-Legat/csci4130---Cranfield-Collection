@@ -1,3 +1,11 @@
+.T
+on the vibration of thin cylindrical shells under internal
+pressure .
+.A
+fung,y.c., sechler,e.e. and kaplan,a.
+.B
+j. ae. scs. 27, 1957, 650.
+.W
 on the vibration of thin cylindrical shells under internal
 pressure .
   the frequency spectra and vibration modes of thin-walled

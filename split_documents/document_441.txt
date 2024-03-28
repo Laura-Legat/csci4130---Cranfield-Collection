@@ -1,3 +1,11 @@
+.T
+evaluation of high angle-of-attack aerodynamic derivative
+data and stall-flutter prediction techniques .
+.A
+halfman,r.l., johnson,h.c. and haley,s.m.
+.B
+naca tn.2533, 1951.
+.W
 evaluation of high angle-of-attack aerodynamic derivative
 data and stall-flutter prediction techniques .
   the problem of stall flutter is approached in two ways .  first,

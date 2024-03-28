@@ -1,3 +1,11 @@
+.T
+convection of a pattern of vorticity through a shock
+wave .
+.A
+ribner,h.s.
+.B
+naca tn.2864, 1953.
+.W
 convection of a pattern of vorticity through a shock
 wave .
   an arbitrary weak spatial distribution of vorticity can be

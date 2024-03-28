@@ -1,3 +1,11 @@
+.T
+new methods in heat flow analysis with application
+to flight structures .
+.A
+biot,m.a.
+.B
+j. ae. scs. 24, 1957.
+.W
 new methods in heat flow analysis with application
 to flight structures .
   new methods are presented for the analysis of transient heat

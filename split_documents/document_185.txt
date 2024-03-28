@@ -1,3 +1,10 @@
+.T
+some possibilities of using gas mixtures other than in
+aerodynamic research .
+.A
+dean r. chapman
+.B
+.W
 some possibilities of using gas mixtures other than in
 aerodynamic research .
 a study is made of the advantages that can be realized in

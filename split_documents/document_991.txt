@@ -1,3 +1,12 @@
+.T
+wing-flow study of pressure drag reduction at transonic speed by
+projecting a jet of air from the nose of a prolate spheroid of fineness
+ratio 6 .
+.A
+lopatoff, m.
+.B
+naca rm l51e09, 1951 .
+.W
 wing-flow study of pressure drag reduction at transonic speed by
 projecting a jet of air from the nose of a prolate spheroid of fineness
 ratio 6 .

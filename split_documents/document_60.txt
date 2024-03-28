@@ -1,3 +1,11 @@
+.T
+estimation forces and moments due to rolling for several
+slender tail configurations at supersonic speeds .
+.A
+bobbitt,p.j. and malvestuto,f.s.
+.B
+naca tn.2955, 1953.
+.W
 estimation forces and moments due to rolling for several
 slender tail configurations at supersonic speeds .
   the velocity potentials, span loadings, and corresponding force

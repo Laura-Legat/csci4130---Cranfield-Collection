@@ -1,3 +1,11 @@
+.T
+skin friction in the laminar boundary layer in compressible
+flow .
+.A
+young,a.d.
+.B
+aero.quart. 1, 1949, 137.
+.W
 skin friction in the laminar boundary layer in compressible
 flow .
   from an analysis of the work of

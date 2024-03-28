@@ -1,3 +1,11 @@
+.T
+the design of intermediate vertical stiffeners on web
+plates subjected to shear .
+.A
+rockey,k.c.
+.B
+aero. quart. 1956, 275.
+.W
 the design of intermediate vertical stiffeners on web
 plates subjected to shear .
   the correct design of intermediate vertical stiffeners on web plates

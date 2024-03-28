@@ -1,3 +1,11 @@
+.T
+a summary of the supersonic pressure drag of bodies
+of revolution .
+.A
+morris,d.n.
+.B
+j.aero.scs. 28, 1961, 563.
+.W
 a summary of the supersonic pressure drag of bodies
 of revolution .
   a number of approximate theories for supersonic and

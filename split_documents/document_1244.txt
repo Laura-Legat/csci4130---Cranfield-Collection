@@ -1,3 +1,10 @@
+.T
+on the aerodynamic noise of a turbulent jet .
+.A
+cheng,sin-i.
+.B
+j. ae. scs. 1961, 321.
+.W
 on the aerodynamic noise of a turbulent jet .
   a new model is advanced for analyzing the broad-spectrum
 noise of a turbulent jet .  the shear layer bounding the turbulent

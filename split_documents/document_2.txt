@@ -1,3 +1,13 @@
+.T
+simple shear flow past a flat plate in an incompressible fluid of small
+viscosity .
+.A
+ting-yili
+.B
+department of aeronautical engineering, rensselaer polytechnic
+institute
+troy, n.y.
+.W
 simple shear flow past a flat plate in an incompressible fluid of small
 viscosity .
 in the study of high-speed viscous flow past a two-dimensional body it

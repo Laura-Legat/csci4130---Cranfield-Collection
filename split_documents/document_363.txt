@@ -1,3 +1,11 @@
+.T
+an alternative formulation of the problem of flutter
+in real fluids .
+.A
+chu,w.h. and abramson,h.n.
+.B
+j. ae. scs. 26, 1959.
+.W
 an alternative formulation of the problem of flutter
 in real fluids .
 it is well known, in steady flow, that the actual lift curve

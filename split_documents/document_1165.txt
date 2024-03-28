@@ -1,3 +1,11 @@
+.T
+an investigation of the effect of downwash from a vtol
+aircraft and a helicopter in the ground environment .
+.A
+o'bryan,t.c.
+.B
+nasa tn.d977, 1961.
+.W
 an investigation of the effect of downwash from a vtol
 aircraft and a helicopter in the ground environment .
   dynamic-pressure measurement,

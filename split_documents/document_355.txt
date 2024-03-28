@@ -1,3 +1,13 @@
+.T
+the injection of air into the dissociated hypersonic laminar boundary
+layer .
+.A
+sinclaire m. scala
+.B
+research engineer
+missile and ordnance systems department, general electric company,
+philadelphia, pa.
+.W
 the injection of air into the dissociated hypersonic laminar boundary
 layer .
 in first approximation, dissociated air may be treated as a binary

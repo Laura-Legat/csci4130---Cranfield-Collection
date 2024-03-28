@@ -1,3 +1,11 @@
+.T
+local heat transfer to a yawed, infite, circular cylinder
+in laminar compressible flow .
+.A
+weiss,d.
+.B
+j. ae. scs. 29, 1962.
+.W
 local heat transfer to a yawed, infite, circular cylinder
 in laminar compressible flow .
   this note presents a simplification of a method for

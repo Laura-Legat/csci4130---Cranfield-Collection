@@ -1,3 +1,12 @@
+.T
+calculations for the stability of thin conical frustums
+subjected to external uniform hydrostatic pressure
+and axial loads .
+.A
+seide,p.
+.B
+j. ae. scs. 29, 1962, 951.
+.W
 calculations for the stability of thin conical frustums
 subjected to external uniform hydrostatic pressure
 and axial loads .

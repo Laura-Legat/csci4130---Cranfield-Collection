@@ -1,3 +1,11 @@
+.T
+investigation of laminar boundary layer in compressible
+fluids using the crocco method .
+.A
+van driest,e.r.
+.B
+naca tn.2597, 1952.
+.W
 investigation of laminar boundary layer in compressible
 fluids using the crocco method .
   in the present investigation of the flow of air in a thin laminar

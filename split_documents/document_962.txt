@@ -1,3 +1,12 @@
+.T
+contributions to the theory of heat transfer through
+a laminar boundary layer .
+.A
+m. j. lighthill
+.B
+department of mathematics, university of manchester
+communicated by s. goldstein, f.r.s.
+.W
 contributions to the theory of heat transfer through
 a laminar boundary layer .
 an approximation to the heat transfer rate across a laminar

@@ -1,3 +1,12 @@
+.T
+theoretical analysis of turbulent mixing of reactive
+gases with application to supersonic combustion of
+hydrogen .
+.A
+libby,p.a.
+.B
+ars jnl. 32, 1962, 388.
+.W
 theoretical analysis of turbulent mixing of reactive
 gases with application to supersonic combustion of
 hydrogen .

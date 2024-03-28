@@ -1,3 +1,12 @@
+.T
+the transonic characteristics of 38 cambered rectangular
+wings of varying aspect ratio and thickness as determined
+by transonic-bump technique .
+.A
+nelson,w.h. and krumm,w.j.
+.B
+naca tn.3502, 1955.
+.W
 the transonic characteristics of 38 cambered rectangular
 wings of varying aspect ratio and thickness as determined
 by transonic-bump technique .

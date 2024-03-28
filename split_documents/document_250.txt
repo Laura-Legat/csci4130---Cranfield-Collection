@@ -1,3 +1,11 @@
+.T
+pressure distributions at zero lift for delta wings
+with rhombic cross sections .
+.A
+eminton,e.
+.B
+arc cp.525, 1960.
+.W
 pressure distributions at zero lift for delta wings
 with rhombic cross sections .
   the linearised theory of thin wings is used to calculate pressure

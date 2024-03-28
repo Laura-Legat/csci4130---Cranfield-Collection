@@ -1,3 +1,11 @@
+.T
+on the prediction of mixed subsonic/supersonic pressure
+distributions .
+.A
+sinnott,c.s.
+.B
+j. ae. scs. 27, 1960, 767.
+.W
 on the prediction of mixed subsonic/supersonic pressure
 distributions .
   high-speed wind-tunnel results are analyzed to derive a

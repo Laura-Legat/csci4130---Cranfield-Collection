@@ -1,3 +1,12 @@
+.T
+a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressible flow .
+.A
+mangler,k.w.
+.B
+rae r. aero.2468.
+.W
 a method of calculating the short period longitudinal
 stability derivatives of a wing in linearised unsteady
 compressible flow .

@@ -1,3 +1,12 @@
+.T
+blockage corrections for three-dimensional flow closed
+throat wind tunnels, with considerations of the effect
+of compressibility .
+.A
+herriot,j.g.
+.B
+naca r.995, 1950.
+.W
 blockage corrections for three-dimensional flow closed
 throat wind tunnels, with considerations of the effect
 of compressibility .

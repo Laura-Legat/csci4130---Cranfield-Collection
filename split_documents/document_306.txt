@@ -1,3 +1,11 @@
+.T
+second approximation to laminar compressible boundary
+layer on flat plate in slip flow .
+.A
+maslen,s.h.
+.B
+naca tn.2818, 1952.
+.W
 second approximation to laminar compressible boundary
 layer on flat plate in slip flow .
   the first-order solution for the laminar compressible boundary-layer

@@ -1,3 +1,10 @@
+.T
+analytic determination of discharge coefficients of flow nozzles .
+.A
+simmons, f.s.
+.B
+naca tn 3449, 1955 .
+.W
 analytic determination of discharge coefficients of flow nozzles .
 integration of the velocity profile at the throat of a flow nozzle
 yields the discharge coefficient as a function of the ratio of boundary

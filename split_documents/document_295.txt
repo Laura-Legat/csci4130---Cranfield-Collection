@@ -1,3 +1,12 @@
+.T
+a note on transitional heat transfer under hypersonic conditions .
+.A
+constantino economos and paul a. libby
+.B
+research assistant and professor of aeronautical engineering,
+respectively
+polytechnic institute of brooklyn, brooklyn, n.y.
+.W
 a note on transitional heat transfer under hypersonic conditions .
 in references 1 and 2 there were presented experimental data on
 transitional heat transfer on a blunt body under hypersonic-flow

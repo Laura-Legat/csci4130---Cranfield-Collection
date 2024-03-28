@@ -1,3 +1,11 @@
+.T
+the analysis of redundant structures by the use of
+high-speed digital computers .
+.A
+chrichlow,w.j. and haggenmacher,g.w.
+.B
+j. ae. scs. 27, 1960, 595.
+.W
 the analysis of redundant structures by the use of
 high-speed digital computers .
   large-scale redundant structure analyses are currently

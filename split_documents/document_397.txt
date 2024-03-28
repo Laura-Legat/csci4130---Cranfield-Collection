@@ -1,3 +1,11 @@
+.T
+a sublayer for fluid injection into the incompressible
+turbulent boundary layer .
+.A
+turcotte,d.l.
+.B
+j. ae. scs. 27, 1960.
+.W
 a sublayer for fluid injection into the incompressible
 turbulent boundary layer .
   a sublayer region is introduced in which the intensity of

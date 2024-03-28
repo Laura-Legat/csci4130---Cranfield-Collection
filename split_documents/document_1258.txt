@@ -1,3 +1,12 @@
+.T
+heat transfer, recovery factor and pressure distributions
+around a circular cylinder normal to a supersonic rarefied
+air stream .
+.A
+tewfik,o.k. and giedt,w.h.
+.B
+j. ae. scs. 1960, 721.
+.W
 heat transfer, recovery factor and pressure distributions
 around a circular cylinder normal to a supersonic rarefied
 air stream .

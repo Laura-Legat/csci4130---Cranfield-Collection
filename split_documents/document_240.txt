@@ -1,3 +1,10 @@
+.T
+a theoretical analysis of heat transfer in regions of separated flow .
+.A
+dean r. chapman
+.B
+naca technote 3792
+.W
 a theoretical analysis of heat transfer in regions of separated flow .
     the flow field analyzed consists of a thin, constant pressure
 viscous mixing layer separated from a solid surface by an enclosed

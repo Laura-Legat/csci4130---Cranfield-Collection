@@ -1,3 +1,11 @@
+.T
+analysis of a loaded cantilever plate by finite difference
+methods .
+.A
+livesley,r.k. and birchall,p.c.
+.B
+rae tn. ms26, 1956.
+.W
 analysis of a loaded cantilever plate by finite difference
 methods .
   the various difference patterns necessary for finite difference

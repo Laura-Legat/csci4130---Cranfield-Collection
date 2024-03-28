@@ -1,3 +1,11 @@
+.T
+boundary layers with suction and injection . a review
+of published work on skin friction .
+.A
+craven,a.h.
+.B
+coa r136.
+.W
 boundary layers with suction and injection . a review
 of published work on skin friction .
   available data on the effects of suction and injection on skin

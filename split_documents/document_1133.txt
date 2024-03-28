@@ -1,3 +1,13 @@
+.T
+a simple extension of southwell's method for determining the elastic
+general instability pressure of ring-stiffened cylinders subject
+to external hydrostatic pressure .
+.A
+g. d. galletly and t. e. reynolds
+.B
+david taylor model basin,
+washington, d. c.
+.W
 a simple extension of southwell's method for determining the elastic
 general instability pressure of ring-stiffened cylinders subject
 to external hydrostatic pressure .

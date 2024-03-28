@@ -1,3 +1,11 @@
+.T
+theory of mixing and chemical reaction in the opposed
+jet diffusion flame .
+.A
+spalding,d.b.
+.B
+a.r.s. jnl. 31, 1961, 763.
+.W
 theory of mixing and chemical reaction in the opposed
 jet diffusion flame .
   an idealization of the flow system used by potter

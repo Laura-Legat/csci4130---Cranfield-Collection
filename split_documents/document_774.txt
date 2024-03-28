@@ -1,3 +1,11 @@
+.T
+general characteristics of the flow through nozzles
+at near critical speeds .
+.A
+sauer,r.
+.B
+naca tm.1147, 1944.
+.W
 general characteristics of the flow through nozzles
 at near critical speeds .
   the characteristics of the position and form of

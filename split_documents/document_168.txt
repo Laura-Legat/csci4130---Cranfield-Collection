@@ -1,3 +1,11 @@
+.T
+heat conduction through a gas with one inert internal
+model .
+.A
+clarke,j.f.
+.B
+coa n102, 1960.
+.W
 heat conduction through a gas with one inert internal
 model .
   the rate of energy transfer between

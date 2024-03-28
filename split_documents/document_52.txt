@@ -1,3 +1,12 @@
+.T
+procedure for calculating flutter at high supersonic
+speed including camber deflections, and comparison
+with experimental results .
+.A
+morgan,h.g.
+.B
+naca tn.4335, 1958.
+.W
 procedure for calculating flutter at high supersonic
 speed including camber deflections, and comparison
 with experimental results .

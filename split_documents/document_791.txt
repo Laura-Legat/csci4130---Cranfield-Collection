@@ -1,3 +1,12 @@
+.T
+measurements at mach numbers up to 2. 8 of the longitudinal
+characteristics of one plane and three cambered slender
+'ogee' wings .
+.A
+taylor,c.r.
+.B
+rae r. aero.2658, 1961.
+.W
 measurements at mach numbers up to 2. 8 of the longitudinal
 characteristics of one plane and three cambered slender
 'ogee' wings .

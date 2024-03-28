@@ -1,3 +1,13 @@
+.T
+measured and calculated subsonic and transonic flutter
+characteristics of a 45 sweptback wing planform in
+air and in freon-12 in the langley transonic dynamics
+tunnel .
+.A
+yates,e.c., land,n.s. and foughner,j.t.
+.B
+nasa tn.d1616, 1963.
+.W
 measured and calculated subsonic and transonic flutter
 characteristics of a 45 sweptback wing planform in
 air and in freon-12 in the langley transonic dynamics

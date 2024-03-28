@@ -1,3 +1,10 @@
+.T
+modulated entry .
+.A
+grant,f.c.
+.B
+nasa tn.d452, 1960.
+.W
 modulated entry .
   the technique of modulation, or variable coefficients, is discussed
 and the analytical formulation is reviewed .  representative numerical

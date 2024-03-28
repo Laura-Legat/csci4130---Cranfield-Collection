@@ -1,3 +1,12 @@
+.T
+charts adapted from van driest's turbulent flat-plate
+theory for determining values of turbulent aerodynamic
+friction and heat transfer coefficients .
+.A
+lee,d.b. and faget,m.a.
+.B
+naca tn.3811, 1956.
+.W
 charts adapted from van driest's turbulent flat-plate
 theory for determining values of turbulent aerodynamic
 friction and heat transfer coefficients .

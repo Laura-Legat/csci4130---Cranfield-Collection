@@ -1,3 +1,12 @@
+.T
+design of missile bodies for minimum drag at very high
+speeds - thickness ratio, lift, and center of pressure
+given .
+.A
+strand,t.
+.B
+j. ae. scs. 1959, 568.
+.W
 design of missile bodies for minimum drag at very high
 speeds - thickness ratio, lift, and center of pressure
 given .

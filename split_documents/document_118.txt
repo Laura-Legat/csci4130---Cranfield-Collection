@@ -1,3 +1,11 @@
+.T
+the transonic flow of a compressible fluid through
+an axially symmetrical nozzle .
+.A
+tomotika,s. and hasimoto,z.
+.B
+j.math.phys. 29, 1950, 105.
+.W
 the transonic flow of a compressible fluid through
 an axially symmetrical nozzle .
   by a method similar to that developed by s. tomotika

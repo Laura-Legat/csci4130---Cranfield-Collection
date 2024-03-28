@@ -1,3 +1,11 @@
+.T
+on the minimisation and numerical evaluation of wave
+drag .
+.A
+eminton,e.
+.B
+rae r.aero.2564.
+.W
 on the minimisation and numerical evaluation of wave
 drag .
   a fourier analysis of the linearised theory expression for the

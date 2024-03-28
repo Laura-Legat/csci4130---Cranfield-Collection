@@ -1,3 +1,11 @@
+.T
+plastic stability theory of geometrically orthotropic
+plates and cylindrical shells .
+.A
+gerard,g.
+.B
+j. ae. scs. 29, 1962, 956.
+.W
 plastic stability theory of geometrically orthotropic
 plates and cylindrical shells .
   a linear eighth-order equilibrium differential equation for

@@ -1,3 +1,12 @@
+.T
+experimental investigation of attenuation of strong
+shock waves in a shock tube with hydrogen and helium
+as driver gases .
+.A
+jones,j.j.
+.B
+nasa tn.4072, 1957.
+.W
 experimental investigation of attenuation of strong
 shock waves in a shock tube with hydrogen and helium
 as driver gases .

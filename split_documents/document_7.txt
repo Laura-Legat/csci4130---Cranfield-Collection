@@ -1,3 +1,11 @@
+.T
+the effect of controlled three-dimensional roughness
+on boundary layer transition at supersonic speeds .
+.A
+van driest,e.r. and mccauley,w.d.
+.B
+j. ae. scs. 27, 1960, 261.
+.W
 the effect of controlled three-dimensional roughness
 on boundary layer transition at supersonic speeds .
   experiments were performed in the 12-in. supersonic wind

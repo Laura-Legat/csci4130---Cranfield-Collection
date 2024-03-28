@@ -1,3 +1,11 @@
+.T
+inviscid-incompressible-flow theory of static two-dimensional
+solid jets, in proximity to the ground .
+.A
+strand,t.
+.B
+j. ae. scs. 1962, 170.
+.W
 inviscid-incompressible-flow theory of static two-dimensional
 solid jets, in proximity to the ground .
   the inviscid-incompressible-flow theory of static two-

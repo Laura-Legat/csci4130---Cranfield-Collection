@@ -1,3 +1,11 @@
+.T
+calculated lift distributions in incompressible flow
+on some sweptback wings .
+.A
+bagley,j.a. and joyce,g.m.
+.B
+rae tn. aero.2836, 1962.
+.W
 calculated lift distributions in incompressible flow
 on some sweptback wings .
   in the course of a larger survey of some aerodynamic characteristics

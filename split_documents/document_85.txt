@@ -1,3 +1,11 @@
+.T
+on trails of axisymmetric hypersonic blunt bodies flying
+through the atmosphere .
+.A
+feldman,s.
+.B
+j. ae. scs. 28, 1961, 433.
+.W
 on trails of axisymmetric hypersonic blunt bodies flying
 through the atmosphere .
   the trail left in the atmosphere by a body moving at hypersonic

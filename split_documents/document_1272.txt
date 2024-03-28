@@ -1,3 +1,11 @@
+.T
+oscillatory aerodynamic coefficients for a unified
+supersonic hypersonic strip theory .
+.A
+rodden,w.p. and revell,j.d.
+.B
+j. ae. scs. 1960, 451.
+.W
 oscillatory aerodynamic coefficients for a unified
 supersonic hypersonic strip theory .
   this investigation presents a derivation of the oscillatory

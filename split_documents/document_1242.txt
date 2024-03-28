@@ -1,3 +1,11 @@
+.T
+some considerations on the laminar stability of time-dependent basic
+flows .
+.A
+s. f. shen
+.B
+u.s. naval ordnance laboratory
+.W
 some considerations on the laminar stability of time-dependent basic
 flows .
 as a stability criterion for infinitesimal disturbances in an

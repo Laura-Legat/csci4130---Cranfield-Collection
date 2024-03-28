@@ -1,3 +1,11 @@
+.T
+approximate methods fore predicting separation properties
+of laminar boundary layers .
+.A
+curle,n. and skan,s.w.
+.B
+aero. quart. 8, 1957, 257.
+.W
 approximate methods fore predicting separation properties
 of laminar boundary layers .
   some new solutions for steady incompressible laminar boundary

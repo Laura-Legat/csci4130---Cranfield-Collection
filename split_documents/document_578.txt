@@ -1,3 +1,10 @@
+.T
+dissociation scaling for nonequilibrium blunt nose flows .
+.A
+gibson, w.e.
+.B
+ars journal. vol. 32pp. 285-287. 1962 .
+.W
 dissociation scaling for nonequilibrium blunt nose flows .
 stage-stacking study . the principal problems considered were poor
 low-speed efficiency, multiple-valued performance characteristics at

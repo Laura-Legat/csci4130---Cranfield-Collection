@@ -1,3 +1,11 @@
+.T
+allowable axial loads and bending moments for inelastic structures
+under nonuniform temperature distribution .
+.A
+b. e. gatewood and r. w. gehring
+.B
+the ohio state university and north american aviation, inc.
+.W
 allowable axial loads and bending moments for inelastic structures
 under nonuniform temperature distribution .
 a strain-analysis method is derived and demonstrated for the

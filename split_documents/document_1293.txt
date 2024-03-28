@@ -1,3 +1,10 @@
+.T
+design of stiffened cylinders in axial compression .
+.A
+hedgepeth,j.m.
+.B
+nasa tn.d1510, 1962.
+.W
 design of stiffened cylinders in axial compression .
   the problem of optimum design
 of axially compressed cylinders

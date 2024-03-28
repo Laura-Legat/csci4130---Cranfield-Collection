@@ -1,3 +1,8 @@
+.T
+note on creep buckling of columns .
+.A
+.B
+.W
 note on creep buckling of columns .
   forty-three cylinders of 40-inch
 length and 16-inch diameter, made

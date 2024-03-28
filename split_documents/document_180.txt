@@ -1,3 +1,11 @@
+.T
+boundary layer over a flat plate in presence of shear
+flow .
+.A
+ting,l.
+.B
+phys. fluids, 13, 1960, 78.
+.W
 boundary layer over a flat plate in presence of shear
 flow .
   the governing equations of an incompressible

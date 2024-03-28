@@ -1,3 +1,11 @@
+.T
+a rapid approximate method for the design of hub shroud profiles of
+centrifugal impellers of given blade shape .
+.A
+smith, k.j. and hamrick, j.t.
+.B
+naca tn 3399. 1955 .
+.W
 a rapid approximate method for the design of hub shroud profiles of
 centrifugal impellers of given blade shape .
 a rapid approximate method for the design of centrifugal compressors of

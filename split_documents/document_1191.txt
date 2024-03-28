@@ -1,3 +1,11 @@
+.T
+heat transfer to a hemisphere-cylinder at low reynolds
+numbers .
+.A
+hickman,r.s. and giedt,w.h.
+.B
+aiaa jnl. 1, 1963, 665.
+.W
 heat transfer to a hemisphere-cylinder at low reynolds
 numbers .
   measurements of the local heat flux to

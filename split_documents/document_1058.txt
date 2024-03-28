@@ -1,3 +1,10 @@
+.T
+the conical disk spring .
+.A
+wempner,g.a.
+.B
+proc. 3rd u.s. nat. cong. app. mech. 1958, 473.
+.W
 the conical disk spring .
   this paper presents approximate formulas
 to describe the behavior of the conical

@@ -1,3 +1,12 @@
+.T
+a practical method for numerical evaluation of solutions
+of partial differential equations of the heat-conduction
+type .
+.A
+crank,j. and nicolson,p.
+.B
+proc. cam. phil. soc., 43, 1947, 50.
+.W
 a practical method for numerical evaluation of solutions
 of partial differential equations of the heat-conduction
 type .

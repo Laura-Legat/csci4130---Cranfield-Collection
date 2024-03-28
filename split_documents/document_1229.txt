@@ -1,3 +1,11 @@
+.T
+the effect of sweep angle on hypersonic flow over blunt
+wings .
+.A
+bogdonoff,s.m. and vas,r.e.
+.B
+j. ae. scs. 1961.
+.W
 the effect of sweep angle on hypersonic flow over blunt
 wings .
   a series of tests were carried out in the princeton university

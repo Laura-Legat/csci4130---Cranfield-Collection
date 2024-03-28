@@ -1,3 +1,11 @@
+.T
+a theory for base pressures in transonic and supersonic
+flow .
+.A
+korst,h.h.
+.B
+j.app.mech. 23, 1956, 593.
+.W
 a theory for base pressures in transonic and supersonic
 flow .
   a physical flow model is devised based on the concepts of

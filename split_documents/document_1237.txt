@@ -1,3 +1,11 @@
+.T
+foreign-gas injection into a compressible turbulent
+boundary layer on a flat plate .
+.A
+ness,n.
+.B
+j. ae. scs. 1961, 645.
+.W
 foreign-gas injection into a compressible turbulent
 boundary layer on a flat plate .
   the distributed injection of a foreign gas into a compressible,

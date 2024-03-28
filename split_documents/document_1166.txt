@@ -1,3 +1,12 @@
+.T
+an investigation to determine conditions under which
+downwash from vtol aircraft will start surface erosion
+from various types of terrain .
+.A
+kuhn,r.e.
+.B
+nasa tn.d56, 1959.
+.W
 an investigation to determine conditions under which
 downwash from vtol aircraft will start surface erosion
 from various types of terrain .

@@ -1,3 +1,12 @@
+.T
+a numerical comparison between exact and approximate
+theories of hypersonic inviscid flow past slender blunt
+nosed bodies .
+.A
+cheng,k.h. and chang,a.l.
+.B
+ars j. 31, 1961.
+.W
 a numerical comparison between exact and approximate
 theories of hypersonic inviscid flow past slender blunt
 nosed bodies .

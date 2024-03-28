@@ -1,3 +1,11 @@
+.T
+an analytical treatment of aircraft propeller precession
+instability .
+.A
+reed,w.h. and bland,s.r.
+.B
+nasa tn.d659, 1961.
+.W
 an analytical treatment of aircraft propeller precession
 instability .
   an analytical investigation is made of a precession-type instability

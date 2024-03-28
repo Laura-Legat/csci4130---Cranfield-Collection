@@ -1,3 +1,11 @@
+.T
+a process for the step-by-step integration of differential
+equations in an automatic digital computing machine .
+.A
+gills,s.
+.B
+proc. cam. phil. soc. 47, 1951, 96.
+.W
 a process for the step-by-step integration of differential
 equations in an automatic digital computing machine .
   it is advantageous in automatic

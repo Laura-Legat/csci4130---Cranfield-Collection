@@ -1,3 +1,11 @@
+.T
+some experimental investigations on the influence of wall boundary
+layers upon wind tunnel measurements at high subsonic speeds .
+.A
+petersohn, e.g.m.
+.B
+ffa n.r. 44, stockholm, 1952 .
+.W
 some experimental investigations on the influence of wall boundary
 layers upon wind tunnel measurements at high subsonic speeds .
 pressure distribution measurements and drag determination by means of

@@ -1,3 +1,11 @@
+.T
+fluctuating lift and drag acting on a cylinder in a
+flow at supercritical reynolds numbers .
+.A
+fung,y.c.
+.B
+j. ae. scs.1960, 801.
+.W
 fluctuating lift and drag acting on a cylinder in a
 flow at supercritical reynolds numbers .
   the fluctuating lift and drag acting on a circular cylinder in a

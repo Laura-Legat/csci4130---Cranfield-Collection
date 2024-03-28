@@ -1,3 +1,11 @@
+.T
+unsteady aerodynamic forces on a slender body of revolution
+in supersonic flow .
+.A
+bond,r. and packard,b.b.
+.B
+nasa tn.d859, 1961.
+.W
 unsteady aerodynamic forces on a slender body of revolution
 in supersonic flow .
   linearized slender-body theory

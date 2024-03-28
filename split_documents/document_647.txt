@@ -1,3 +1,12 @@
+.T
+bending of a uniformly loaded rectangular plate with
+two adjacent edges and the others either simply supported
+or free .
+.A
+huang,m.k. and conway,d.
+.B
+j.app.mech. 1952, 451.
+.W
 bending of a uniformly loaded rectangular plate with
 two adjacent edges and the others either simply supported
 or free .

@@ -1,3 +1,11 @@
+.T
+analysis of the fluid mechanics of secondary injection
+for thrust vector control .
+.A
+broadwell,j.e.
+.B
+aiaa jnl. 1963, 1067.
+.W
 analysis of the fluid mechanics of secondary injection
 for thrust vector control .
   an analysis is made of the interaction of an injected
